@@ -3,7 +3,7 @@
 <html lang="zxx">
   <head>
     <meta charset="utf-8">
-    <title>Plesire | Interactive Travel Template</title>
+    <title>Plesire | Travel</title>
     <meta content="" name="description">
     <meta content="" name="author">
     <meta content="" name="keywords">
