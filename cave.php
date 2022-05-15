@@ -387,13 +387,13 @@
              <h4>Latest Destination</h4>
               <div class="tag-country">
                 <a href="#" class="list-country">
-                  Santa Cruz <sup>325 visits</sup>
+                  Boac <sup>311 visits</sup>
                 </a>
                 <a href="#" class="list-country">
-                  Mogpog <sup>301 visits</sup>
+                  Santa Cruz <sup>287 visits</sup>
                 </a>
                 <a href="#" class="list-country">
-                  Gasan <sup>238 visits</sup>
+                  Mogpog <sup>211 visits</sup>
                 </a>
               </div>
             </div>  

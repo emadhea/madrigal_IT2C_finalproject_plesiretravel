@@ -149,9 +149,9 @@
           <div class="row">
             <div class="col-md-12">
               <h1 class="big-heading">
-                Falls Destination
+                Cathedral Destination
               </h1>
-              <p>A place where water flows over the edge of a steep</p>
+              <p>A principal church of a diocese</p>
             </div>
         </div>
        </div>
@@ -218,20 +218,20 @@
                 <div class="col-md-6 col-lg-4">
                 <div class="gal-home">
                   <div class="hovereffect">
-                    <img alt="imageportofolio" class="img-responsive" src="img/falls/bulusukan.jpeg">
+                    <img alt="imageportofolio" class="img-responsive" src="img/cathedral/boac.jpeg">
                   </div>
                   <div class="gal-home-content">
                     <div class="row">
                          <div class="col-md-8"> 
-                          <h4 class="autoheight">Bulusukan Falls</h4>
+                          <h4 class="autoheight">Boac Cathedral</h4>
                           <div class="star-content">
                             <i class="fa fa-star" aria-hidden="true"></i> 
                             <i class="fa fa-star" aria-hidden="true"></i> 
                             <i class="fa fa-star" aria-hidden="true"></i> 
                             <i class="fa fa-star" aria-hidden="true"></i> 
-                            <i class="fa fa-star-o" aria-hidden="true"></i>
+                            <i class="fa fa-star" aria-hidden="true"></i>
                            </div>
-                           <div class="review-cont big-heading">132 Reviews</div>
+                           <div class="review-cont big-heading">534 Reviews</div>
                          </div>
                    </div>
                   </div>
@@ -242,20 +242,20 @@
                 <div class="col-md-6 col-lg-4">
                 <div class="gal-home">
                         <div class="hovereffect">
-                          <img alt="imageportofolio" class="img-responsive" src="img/falls/duyay.jpeg">
+                          <img alt="imageportofolio" class="img-responsive" src="img/cathedral/buena.jpeg">
                         </div>
                         <div class="gal-home-content">
                           <div class="row">
                                <div class="col-md-8"> 
-                                <h4 class="autoheight">Duyay Falls</h4>
+                                <h4 class="autoheight">Buenavista Church</h4>
                                 <div class="star-content">
                                   <i class="fa fa-star" aria-hidden="true"></i> 
                                   <i class="fa fa-star" aria-hidden="true"></i> 
                                   <i class="fa fa-star" aria-hidden="true"></i> 
                                   <i class="fa fa-star" aria-hidden="true"></i> 
-                                  <i class="fa fa-star" aria-hidden="true"></i>
+                                  <i class="fa fa-star-o" aria-hidden="true"></i>
                                  </div>
-                                 <div class="review-cont big-heading">465 Reviews</div>
+                                 <div class="review-cont big-heading">254 Reviews</div>
                                </div>
                          </div>
                         </div>
@@ -266,20 +266,20 @@
                 <div class="col-md-6 col-lg-4">
                   <div class="gal-home">
                         <div class="hovereffect">
-                          <img alt="imageportofolio" class="img-responsive" src="img/falls/ginaras.jpeg">
+                          <img alt="imageportofolio" class="img-responsive" src="img/cathedral/gasan.jpeg">
                         </div>
                         <div class="gal-home-content">
                           <div class="row">
                                <div class="col-md-8"> 
-                                <h4 class="autoheight">Ginaras Falls</h4>
+                                <h4 class="autoheight">Gasan Church</h4>
                                 <div class="star-content">
                                   <i class="fa fa-star" aria-hidden="true"></i> 
                                   <i class="fa fa-star" aria-hidden="true"></i> 
                                   <i class="fa fa-star" aria-hidden="true"></i> 
                                   <i class="fa fa-star" aria-hidden="true"></i> 
-                                  <i class="fa fa-star-o" aria-hidden="true"></i>
+                                  <i class="fa fa-star" aria-hidden="true"></i>
                                  </div>
-                                 <div class="review-cont big-heading">234 Reviews</div>
+                                 <div class="review-cont big-heading">476 Reviews</div>
                                </div>
                          </div>
                         </div>
@@ -290,12 +290,12 @@
                 <div class="col-md-6 col-lg-4">
                 <div class="gal-home">
                         <div class="hovereffect">
-                          <img alt="imageportofolio" class="img-responsive" src="img/falls/kawakawa.jpeg">
+                          <img alt="imageportofolio" class="img-responsive" src="img/cathedral/mogpog.jpeg">
                         </div>
                         <div class="gal-home-content">
                           <div class="row">
                                <div class="col-md-8"> 
-                                <h4 class="autoheight">Kawa Kawa Falls</h4>
+                                <h4 class="autoheight">Mogpog Church</h4>
                                 <div class="star-content">
                                   <i class="fa fa-star" aria-hidden="true"></i> 
                                   <i class="fa fa-star" aria-hidden="true"></i> 
@@ -303,7 +303,7 @@
                                   <i class="fa fa-star" aria-hidden="true"></i> 
                                   <i class="fa fa-star-o" aria-hidden="true"></i>
                                  </div>
-                                 <div class="review-cont big-heading">172 Reviews</div>
+                                 <div class="review-cont big-heading">276 Reviews</div>
                                </div>
                          </div>
                         </div>
@@ -314,12 +314,12 @@
                 <div class="col-md-6 col-lg-4">
                 <div class="gal-home">
                   <div class="hovereffect">
-                    <img alt="imageportofolio" class="img-responsive" src="img/falls/lambingan.jpeg">
+                    <img alt="imageportofolio" class="img-responsive" src="img/cathedral/stcruz.jpeg">
                   </div>
                   <div class="gal-home-content">
                     <div class="row">
                          <div class="col-md-8"> 
-                          <h4 class="autoheight">Lambingan Falls</h4>
+                          <h4 class="autoheight">Santa Cruz Church</h4>
                           <div class="star-content">
                             <i class="fa fa-star" aria-hidden="true"></i> 
                             <i class="fa fa-star" aria-hidden="true"></i> 
@@ -327,7 +327,7 @@
                             <i class="fa fa-star" aria-hidden="true"></i> 
                             <i class="fa fa-star" aria-hidden="true"></i>
                            </div>
-                           <div class="review-cont big-heading">485 Reviews</div>
+                           <div class="review-cont big-heading">422 Reviews</div>
                          </div>
                    </div>
                   </div>
@@ -338,20 +338,20 @@
                 <div class="col-md-6 col-lg-4">
                 <div class="gal-home">
                         <div class="hovereffect">
-                          <img alt="imageportofolio" class="img-responsive" src="img/falls/paadjao.jpeg">
+                          <img alt="imageportofolio" class="img-responsive" src="img/cathedral/torijjos.jpeg">
                         </div>
                         <div class="gal-home-content">
                           <div class="row">
                                <div class="col-md-8"> 
-                                <h4 class="autoheight">Paadjao Falls</h4>
+                                <h4 class="autoheight">Torijjos Church</h4>
                                 <div class="star-content">
                                   <i class="fa fa-star" aria-hidden="true"></i> 
                                   <i class="fa fa-star" aria-hidden="true"></i> 
                                   <i class="fa fa-star" aria-hidden="true"></i> 
                                   <i class="fa fa-star" aria-hidden="true"></i> 
-                                  <i class="fa fa-star" aria-hidden="true"></i>
+                                  <i class="fa fa-star-o" aria-hidden="true"></i>
                                  </div>
-                                 <div class="review-cont big-heading">521 Reviews</div>
+                                 <div class="review-cont big-heading">243 Reviews</div>
                                </div>
                          </div>
                         </div>
@@ -387,14 +387,23 @@
              <h4>Latest Destination</h4>
               <div class="tag-country">
                 <a href="#" class="list-country">
-                  Boac <sup>231 visits</sup>
+                  Boac <sup>465 visits</sup>
                 </a>
                 <a href="#" class="list-country">
-                  Mogpog <sup>201 visits</sup>
+                  Santa Cruz <sup>451 visits</sup>
                 </a>
                 <a href="#" class="list-country">
-                  Gasan <sup>187 visits</sup>
+                  Gasan <sup>448 visits</sup>
                 </a>
+              </div>
+            </div>  
+           </div>
+           <div class="col-md-3 col-md-offset-1">
+            <div class="wrap-subfooter">
+             <h4>Contact Info</h4>
+             <div class="subfooter-content-right">Dili, Gasan, Marinduque</div>
+             <div class="subfooter-content-right">Phone: +63927 6073 941</div>
+             <div class="subfooter-content-right"><a href="#">Email: plesiretravel@gmail.com</a></div>
             </div>
            </div>
           </div>
