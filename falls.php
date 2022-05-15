@@ -149,114 +149,225 @@
           <div class="row">
             <div class="col-md-12">
               <h1 class="big-heading">
-                Our Gallery
+                Falls Destination
               </h1>
-              <p>See different pictures of us</p>
+              <p>A place where water flows over the edge of a steep</p>
             </div>
         </div>
        </div>
       </section>
       <!-- subheader end -->
       
- <!-- gallery -->           
- <section>
- <div class="container-fluid">
- <div class="row">
- 
- <div class="onStep" data-animation="fadeInUp" data-time="0">
- <div id="owl-gal" class="owl-carousel">
+      <!-- section -->
+      <section aria-label="section-blog" id="content">
+        <div class="container-fluid m-5-hor">
+          <div class="row">
+          
+            <!-- left content -->
+            <div class="col-md-3">
+                <div class="frm-search" style="background: url(img/bg-search-ver.jpg);">
+                <div class="container-fluid m-5-hor m-5-hor-dev">
+                  <div class="row">
+
+                    <form class="form-inline" id="sform">
+                      <div class="form-group">
+                       <h3 class="big-heading">Search Results</h3>
+                      </div>
+                      <div class="form-group search-icn">
+                        <label for="key">Keyword</label>
+                        <input type="text" class="form-control" required id="key">
+                      </div>
+                      <div class="form-group">
+                        <label>Select your trip</label>
+                        <select name="select-trip" required="">
+                          <option value="">Any</option>
+                          <option value="#">Nature Travel</option>
+                          <option value="#">Cultural Travel</option>
+                          <option value="#">Family Travel</option>
+                          <option value="#">Holiday Travel</option>
+                          <option value="#">Luxury Travel</option>
+                          <option value="#">Wild &amp; Adventure Travel</option>
+                        </select>
+                      </div>
+                      <div class="form-group">
+                        <label>Town</label>
+                        <select name="destination" required="">
+                          <option value="">Any</option>
+                          <option value="#">Boac</option>
+                          <option value="#">Buenavista</option>
+                          <option value="#">Gasan</option>
+                          <option value="#">Mogpog</option>
+                          <option value="#">Santa Cruz</option>
+                          <option value="#">Torijjos</option>
+                        </select>
+                      </div>
+                      <input class="btn-frm-search" value="FIND NOW" type="submit">
+                    </form> 
+                  
+                  </div>
+                </div>
+                </div>
+                <!-- section search end -->
+            </div>
+            <!-- left content end -->
+
+            <!-- right content -->
+            <div class="col-md-9"> 
+              <div class="row">
+                  
+                <div class="col-md-6 col-lg-4">
+                <div class="gal-home">
+                  <div class="hovereffect">
+                    <img alt="imageportofolio" class="img-responsive" src="img/falls/bulusukan.jpeg">
+                  </div>
+                  <div class="gal-home-content">
+                    <div class="row">
+                         <div class="col-md-8"> 
+                          <h4 class="autoheight">Bulusukan Falls</h4>
+                          <div class="star-content">
+                            <i class="fa fa-star" aria-hidden="true"></i> 
+                            <i class="fa fa-star" aria-hidden="true"></i> 
+                            <i class="fa fa-star" aria-hidden="true"></i> 
+                            <i class="fa fa-star" aria-hidden="true"></i> 
+                            <i class="fa fa-star-o" aria-hidden="true"></i>
+                           </div>
+                           <div class="review-cont big-heading">132 Reviews</div>
+                         </div>
+                   </div>
+                  </div>
+                  </a>
+                </div>
+                </div>
+
+                <div class="col-md-6 col-lg-4">
+                <div class="gal-home">
+                        <div class="hovereffect">
+                          <img alt="imageportofolio" class="img-responsive" src="img/falls/duyay.jpeg">
+                        </div>
+                        <div class="gal-home-content">
+                          <div class="row">
+                               <div class="col-md-8"> 
+                                <h4 class="autoheight">Duyay Falls</h4>
+                                <div class="star-content">
+                                  <i class="fa fa-star" aria-hidden="true"></i> 
+                                  <i class="fa fa-star" aria-hidden="true"></i> 
+                                  <i class="fa fa-star" aria-hidden="true"></i> 
+                                  <i class="fa fa-star" aria-hidden="true"></i> 
+                                  <i class="fa fa-star" aria-hidden="true"></i>
+                                 </div>
+                                 <div class="review-cont big-heading">465 Reviews</div>
+                               </div>
+                         </div>
+                        </div>
+                        </a>
+                      </div>
+                </div>
+
+                <div class="col-md-6 col-lg-4">
+                  <div class="gal-home">
+                        <div class="hovereffect">
+                          <img alt="imageportofolio" class="img-responsive" src="img/falls/ginaras.jpeg">
+                        </div>
+                        <div class="gal-home-content">
+                          <div class="row">
+                               <div class="col-md-8"> 
+                                <h4 class="autoheight">Ginaras Falls</h4>
+                                <div class="star-content">
+                                  <i class="fa fa-star" aria-hidden="true"></i> 
+                                  <i class="fa fa-star" aria-hidden="true"></i> 
+                                  <i class="fa fa-star" aria-hidden="true"></i> 
+                                  <i class="fa fa-star" aria-hidden="true"></i> 
+                                  <i class="fa fa-star-o" aria-hidden="true"></i>
+                                 </div>
+                                 <div class="review-cont big-heading">234 Reviews</div>
+                               </div>
+                         </div>
+                        </div>
+                        </a>
+                      </div>
+                     </div>
+
+                <div class="col-md-6 col-lg-4">
+                <div class="gal-home">
+                        <div class="hovereffect">
+                          <img alt="imageportofolio" class="img-responsive" src="img/falls/kawakawa.jpeg">
+                        </div>
+                        <div class="gal-home-content">
+                          <div class="row">
+                               <div class="col-md-8"> 
+                                <h4 class="autoheight">Kawa Kawa Falls</h4>
+                                <div class="star-content">
+                                  <i class="fa fa-star" aria-hidden="true"></i> 
+                                  <i class="fa fa-star" aria-hidden="true"></i> 
+                                  <i class="fa fa-star" aria-hidden="true"></i> 
+                                  <i class="fa fa-star" aria-hidden="true"></i> 
+                                  <i class="fa fa-star-o" aria-hidden="true"></i>
+                                 </div>
+                                 <div class="review-cont big-heading">172 Reviews</div>
+                               </div>
+                         </div>
+                        </div>
+                        </a>
+                      </div>
+                </div>
+
+                <div class="col-md-6 col-lg-4">
+                <div class="gal-home">
+                  <div class="hovereffect">
+                    <img alt="imageportofolio" class="img-responsive" src="img/falls/lambingan.jpeg">
+                  </div>
+                  <div class="gal-home-content">
+                    <div class="row">
+                         <div class="col-md-8"> 
+                          <h4 class="autoheight">Lambingan Falls</h4>
+                          <div class="star-content">
+                            <i class="fa fa-star" aria-hidden="true"></i> 
+                            <i class="fa fa-star" aria-hidden="true"></i> 
+                            <i class="fa fa-star" aria-hidden="true"></i> 
+                            <i class="fa fa-star" aria-hidden="true"></i> 
+                            <i class="fa fa-star" aria-hidden="true"></i>
+                           </div>
+                           <div class="review-cont big-heading">485 Reviews</div>
+                         </div>
+                   </div>
+                  </div>
+                  </a>
+                </div>
+                </div>
+
+                <div class="col-md-6 col-lg-4">
+                <div class="gal-home">
+                        <div class="hovereffect">
+                          <img alt="imageportofolio" class="img-responsive" src="img/falls/paadjao.jpeg">
+                        </div>
+                        <div class="gal-home-content">
+                          <div class="row">
+                               <div class="col-md-8"> 
+                                <h4 class="autoheight">Paadjao Falls</h4>
+                                <div class="star-content">
+                                  <i class="fa fa-star" aria-hidden="true"></i> 
+                                  <i class="fa fa-star" aria-hidden="true"></i> 
+                                  <i class="fa fa-star" aria-hidden="true"></i> 
+                                  <i class="fa fa-star" aria-hidden="true"></i> 
+                                  <i class="fa fa-star" aria-hidden="true"></i>
+                                 </div>
+                                 <div class="review-cont big-heading">521 Reviews</div>
+                               </div>
+                         </div>
+                        </div>
+                        </a>
+                      </div>
+                     </div>
             
-             <div class="item">
-              <div class="gal-home">
-                      <div class="projects-grid">
-                      <div class="hovereffect-color">
-                      <img src="img/ourgallery/1.jpeg" alt="" class="w-gallery-image">
-                      <div class="overlay">
-                      <div class="v-align wrap">
-                      </div>
-                      </div>
-                      </div>
-                     </div>
-              </div>
-              </div>
-              
-              <div class="item">
-              <div class="gal-home">
-                  <div class="projects-grid">
-                      <div class="hovereffect-color">
-                      <img src="img/ourgallery/2.jpeg" alt="" class="w-gallery-image">
-                      <div class="overlay">
-                      <div class="v-align wrap">
-                      </div>
-                      </div>
-                      </div>
-                     </div>
-              </div>
-              </div>
-              
-              <div class="item">
-              <div class="gal-home ">
-                  <div class="projects-grid">
-                      <div class="hovereffect-color">
-                      <img src="img/ourgallery/3.jpeg" alt="" class="w-gallery-image">
-                      <div class="overlay">
-                      <div class="v-align wrap">
-                      </div>
-                      </div>
-                      </div>
-                     </div>
-              </div>
-              </div>
-              
-              <div class="item">
-              <div class="gal-home ">
-                  <div class="projects-grid">
-                      <div class="hovereffect-color">
-                      <img src="img/ourgallery/4.jpeg" alt="" class="w-gallery-image">
-                      <div class="overlay">
-                      <div class="v-align wrap">
-                      </div>
-                      </div>
-                      </div>
-                     </div>
-              </div>
-              </div>
-              
-              <div class="item">
-              <div class="gal-home">
-                  <div class="projects-grid">
-                      <div class="hovereffect-color">
-                      <img src="img/ourgallery/5.jpeg" alt="" class="w-gallery-image">
-                      <div class="overlay">
-                      <div class="v-align wrap">
-                      </div>
-                      </div>
-                      </div>
-                     </div>
-              </div>
-              </div>
-              
-              <div class="item">
-              <div class="gal-home ">
-                  <div class="projects-grid">
-                      <div class="hovereffect-color">
-                      <img src="img/ourgallery/6.jpeg" alt="" class="w-gallery-image">
-                      <div class="overlay">
-                      <div class="v-align wrap">
-                      </div>
-                      </div>
-                      </div>
-                     </div>
-              </div>
-              </div>     
-              
- </div>
- </div>
- 
- </div>
- </div>
- </section>
- <!-- gallery end -->
+             </div>
+            </div>
+            <!-- right content end -->
+               
+          </div>
+        </div>
+      </section>
+      <!-- section end -->
+      
        
       <!--  subfooter --> 
       <section aria-label="subfooter" class="subfooter no-bottom">
