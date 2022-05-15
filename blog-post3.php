@@ -94,7 +94,7 @@
            <span class="icon icon-bar"></span></button> 
           
           <!-- logo --> 
-          <a class="navbar-brand white" href="index.php">
+          <a class="navbar-brand white" href="index.html">
           <img class="white" alt="logo" src="img/logo.png">
           <img class="black" alt="logo" src="img/logo-white.png">
           </a> 
@@ -149,116 +149,210 @@
           <div class="row">
             <div class="col-md-12">
               <h1 class="big-heading">
-                Our Gallery
+                More Detail
               </h1>
-              <p>See different pictures of us</p>
+              <p>See comments and replies</p>
             </div>
         </div>
        </div>
       </section>
       <!-- subheader end -->
       
- <!-- gallery -->           
- <section>
- <div class="container-fluid">
- <div class="row">
- 
- <div class="onStep" data-animation="fadeInUp" data-time="0">
- <div id="owl-gal" class="owl-carousel">
-            
-             <div class="item">
-              <div class="gal-home">
-                      <div class="projects-grid">
-                      <div class="hovereffect-color">
-                      <img src="img/ourgallery/1.jpeg" alt="" class="w-gallery-image">
-                      <div class="overlay">
-                      <div class="v-align wrap">
-                      </div>
-                      </div>
-                      </div>
-                     </div>
-              </div>
-              </div>
-              
-              <div class="item">
-              <div class="gal-home">
-                  <div class="projects-grid">
-                      <div class="hovereffect-color">
-                      <img src="img/ourgallery/2.jpeg" alt="" class="w-gallery-image">
-                      <div class="overlay">
-                      <div class="v-align wrap">
-                      </div>
-                      </div>
-                      </div>
-                     </div>
-              </div>
-              </div>
-              
-              <div class="item">
-              <div class="gal-home ">
-                  <div class="projects-grid">
-                      <div class="hovereffect-color">
-                      <img src="img/ourgallery/3.jpeg" alt="" class="w-gallery-image">
-                      <div class="overlay">
-                      <div class="v-align wrap">
-                      </div>
-                      </div>
-                      </div>
-                     </div>
-              </div>
-              </div>
-              
-              <div class="item">
-              <div class="gal-home ">
-                  <div class="projects-grid">
-                      <div class="hovereffect-color">
-                      <img src="img/ourgallery/4.jpeg" alt="" class="w-gallery-image">
-                      <div class="overlay">
-                      <div class="v-align wrap">
-                      </div>
-                      </div>
-                      </div>
-                     </div>
-              </div>
-              </div>
-              
-              <div class="item">
-              <div class="gal-home">
-                  <div class="projects-grid">
-                      <div class="hovereffect-color">
-                      <img src="img/ourgallery/5.jpeg" alt="" class="w-gallery-image">
-                      <div class="overlay">
-                      <div class="v-align wrap">
-                      </div>
-                      </div>
-                      </div>
-                     </div>
-              </div>
-              </div>
-              
-              <div class="item">
-              <div class="gal-home ">
-                  <div class="projects-grid">
-                      <div class="hovereffect-color">
-                      <img src="img/ourgallery/6.jpeg" alt="" class="w-gallery-image">
-                      <div class="overlay">
-                      <div class="v-align wrap">
-                      </div>
-                      </div>
-                      </div>
-                     </div>
-              </div>
-              </div>     
-              
- </div>
- </div>
- 
- </div>
- </div>
- </section>
- <!-- gallery end -->    
+      <!-- section -->
+      <section aria-label="section-blog" id="content">
+        <div class="container-fluid m-5-hor">
+          <div class="row">
+          
+            <!-- left content -->
+              <div class="col-md-8">
 
-            <!-- footer -->
+                     <!-- article -->
+                     <article>
+                     <div class="blog-simple">
+							<a href="#"><img class="img-responsive" src="img/blog/3.jpeg" alt=""></a>
+							<div class="blog-text">
+									<span class="user-post"><i class="ti-user"></i>Justine Solito</span>
+									<span class="date-post"><i class="ti-calendar"></i>Feb. 23, 2022</span>
+									<span class="comment"><i class="ti-comment"></i> 3 </span>
+				  <p>Ang hot!! ng panahon</p>
+                  
+							</div> 
+						</div>
+                     </article>
+                     <!-- article end -->
+
+                     <!-- comment blog -->
+                     <div id="blog-comment">
+                        <h5><span>Comments (3)</span></h5>
+
+                        <ul>
+                           <li>
+                              <div class="avatar"><img alt="img" src="img/blog/blogpost/avatar6.jpeg">
+                              </div>
+                              <div class="comment-info">
+                                 <span class="c-name">Reynan Yap</span>
+                                 <span class="c-date"><i class="ti-calendar"></i>23 Feb. 2022</span>
+                                 <span class="c-reply"><a class="link"  href="#">Reply</a></span>
+                              </div>
+                              <div class="comment">Ang hot nga, ng panahon hahahaha</div>
+                           </li>
+                        </ul>
+
+
+                        <ul>
+                           <li>
+                              <div class="avatar"><img alt="img" src="img/blog/blogpost/avatar3.jpeg">
+                              </div>
+                              <div class="comment-info">
+                                 <span class="c-name">Ema Madrigal</span>
+                                 <span class="c-date">23 Feb. 2022</span>
+                                 <span class="c-reply"><a class="link"  href="#">Reply</a></span>
+                              </div>
+                              <div class="comment">San yan?</div>
+                           </li>
+                        </ul>
+
+                        <ul>
+                           <li>
+                              <div class="avatar"><img alt="img" src="img/blog/blogpost/avatar4.jpeg">
+                              </div>
+                              <div class="comment-info">
+                                 <span class="c-name">Ashley Saludo</span>
+                                 <span class="c-date">25 Feb. 2022</span>
+                                 <span class="c-reply"><a class="link"  href="#">Reply</a></span>
+                              </div>
+                              <div class="comment">Aba naganun pa</div>
+                           </li>
+                        </ul>
+
+                        <div id="comment-form-wrapper">
+                           <h6>Leave a Comment</h6>
+                           <form class="no-smoothState" id="commentform" name="form1" method="post" action="#">
+                              <textarea cols="10" rows="10" name="message" id="messagecom" placeholder="Comment"></textarea>
+                              <input type="text" name="name" id="namecom" placeholder="name" />
+                              <input type="text" name="email" id="emailcom" placeholder="email" />
+                              <button id="sendcomment" class="btn" type="submit">Post Comment</button>
+                           </form>
+                        </div>
+                     </div>
+                     <!-- comment blog end -->
+                     
+                  </div>
+                  <!-- left content end -->
+
+            <!-- right content -->
+            <div class="col-md-4">
+              <aside>
+              
+              <!-- widget -->
+              <div class="widget">
+              <form class="no-smoothState" role="search">
+                <div class="input-group">
+						<input type="text" id="search" class="form-control" placeholder="search">
+						<div class="input-group-btn">
+							<button type="submit"><span class="icon"><i class="fa fa-search"></i></span></button>
+						</div>
+				</div>
+                </form>
+                </div>
+                <!-- widget end -->
+              
+                <!-- widget -->
+                <div class="widget">
+                  <h5>
+                    Recent posts
+                  </h5>
+
+                  <div class="devider-widget">
+                  </div>
+
+                  <div class="recent">
+                    <div>
+                      <img alt="#" class="pull-left" src="img/blog/recent/1.jpeg">
+                      <h6>
+                        <a href="#">Justine Solito</a>
+                      </h6>
+                      <p>
+                        All i need is a good dose of vitamin sea
+                      </p>
+                    </div>
+
+                    <div>
+                      <a href="#"><img alt="#" class="pull-left" src="img/blog/recent/2.jpeg"></a>
+                      <h6>
+                        <a href="#">Juan Cruz</a>
+                      </h6>
+
+                      <p>
+                        The ocean made me salty
+                      </p>
+                    </div>
+
+                    <div>
+                      <a href="#"><img alt="#" class="pull-left" src="img/blog/recent/3.jpeg"></a>
+                      <h6>
+                        <a href="#">Justine Solito</a>
+                      </h6>
+
+                      <p>
+                        No one likes shady beaches
+                      </p>
+                    </div>
+                  </div>
+                </div>
+                <!-- widget end -->
+                
+                <!-- widget -->
+                <div class="widget">
+                  <h5>
+                    Tags
+                  </h5>
+
+                  <div class="devider-widget">
+                  </div>
+
+                  <div class="tags">
+                    <div>
+                      <a>Photography</a>
+                    </div>
+
+                    <div>
+                      <a>Trends</a>
+                    </div>
+
+                    <div>
+                      <a>Beach</a>
+                    </div>
+
+                    <div>
+                      <a>Personal</a>
+                    </div>
+
+                    <div>
+                      <a>Resort</a>
+                    </div>
+
+                    <div>
+                      <a>Sea</a>
+                    </div>
+
+                    <div>
+                      <a>Wave</a>
+                    </div>
+                  </div>
+                </div>
+                <!-- widget end -->
+                
+              </aside>
+            </div>
+            <!-- right content end -->
+               
+          </div>
+        </div>
+      </section>
+      <!-- section end -->         
+
+      <!-- footer -->
       <footer class="main text-center">
         <div class="container-fluid m-5-hor">
           <div class="row">
@@ -387,4 +481,3 @@
     <script src="js/on3step.js"></script>
     <script src="js/plugin-set.js"></script>
   </body>
-</html>
