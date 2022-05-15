@@ -147,7 +147,7 @@
           <div class="row">
             <div class="col-md-12">
               <h1 class="big-heading">
-                Our Gallery
+                All Tours
               </h1>
               <p>See different spots in Marinduque</p>
             </div>
@@ -168,12 +168,6 @@
                 <ul id="filter-hide" class="init">
                   <li class="filtter-icon"><i class="ti-layout-grid3-alt"></i>
                   </li>
-                </ul>
-                
-                <ul id="filter-porto">
-                  <li class="filt-projects-w selected" data-project=".alltours">All Tours
-                  </li>
-
                 </ul>
                 
             <!-- filter project end -->

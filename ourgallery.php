@@ -54,7 +54,7 @@
          <div class="col-md-6">
           <div class="left">
             <div class="social-icons-subnav hidden-sm hidden-xs">
-                <div>Call Us : +63927 6073 941</div>
+                <div>Call Us : +02151 7778 009</div>
             </div>
           </div>
          </div>
@@ -149,219 +149,114 @@
           <div class="row">
             <div class="col-md-12">
               <h1 class="big-heading">
-                Island Destination
+                Our Gallery
               </h1>
-              <p>A body of land surrounded by water</p>
+              <p>See different pictures of us</p>
             </div>
         </div>
        </div>
       </section>
       <!-- subheader end -->
       
-      <!-- section -->
-      <section aria-label="section-blog" id="content">
-        <div class="container-fluid m-5-hor">
-          <div class="row">
-          
-            <!-- left content -->
-            <div class="col-md-3">
-                <div class="frm-search" style="background: url(img/bg-search-ver.jpg);">
-                <div class="container-fluid m-5-hor m-5-hor-dev">
-                  <div class="row">
-
-                    <form class="form-inline" id="sform">
-                      <div class="form-group">
-                       <h3 class="big-heading">Search Results</h3>
+ <!-- gallery -->           
+ <section>
+ <div class="container-fluid">
+ <div class="row">
+ 
+ <div class="onStep" data-animation="fadeInUp" data-time="0">
+ <div id="owl-gal" class="owl-carousel">
+            
+             <div class="item">
+              <div class="gal-home">
+                      <div class="projects-grid">
+                      <div class="hovereffect-color">
+                      <img src="img/ourgallery/1.jpeg" alt="" class="w-gallery-image">
+                      <div class="overlay">
+                      <div class="v-align wrap">
                       </div>
-                      <div class="form-group search-icn">
-                        <label for="key">Keyword</label>
-                        <input type="text" class="form-control" required id="key">
                       </div>
-                      <div class="form-group">
-                        <label>Select your trip</label>
-                        <select name="select-trip" required="">
-                          <option value="">Any</option>
-                          <option value="#">Nature Travel</option>
-                          <option value="#">Cultural Travel</option>
-                          <option value="#">Family Travel</option>
-                          <option value="#">Holiday Travel</option>
-                          <option value="#">Luxury Travel</option>
-                          <option value="#">Wild &amp; Adventure Travel</option>
-                        </select>
-                      </div>
-                      <div class="form-group">
-                        <label>Town</label>
-                        <select name="destination" required="">
-                          <option value="">Any</option>
-                          <option value="#">Boac</option>
-                          <option value="#">Buenavista</option>
-                          <option value="#">Gasan</option>
-                          <option value="#">Mogpog</option>
-                          <option value="#">Santa Cruz</option>
-                          <option value="#">Torijjos</option>
-                        </select>
-                      </div>
-                      <input class="btn-frm-search" value="FIND NOW" type="submit">
-                    </form> 
-                  
-                  </div>
-                </div>
-                </div>
-                <!-- section search end -->
-            </div>
-            <!-- left content end -->
-
-            <!-- right content -->
-            <div class="col-md-9"> 
-              <div class="row">
-                  
-                <div class="col-md-6 col-lg-4">
-                <div class="gal-home">
-                  <div class="hovereffect">
-                    <img alt="imageportofolio" class="img-responsive" src="img/island/gaspar.jpeg">
-                  </div>
-                  <div class="gal-home-content">
-                    <div class="row">
-                         <div class="col-md-8"> 
-                          <h4 class="autoheight">Gaspar Island</h4>
-                          <div class="star-content">
-                            <i class="fa fa-star" aria-hidden="true"></i> 
-                            <i class="fa fa-star" aria-hidden="true"></i> 
-                            <i class="fa fa-star" aria-hidden="true"></i> 
-                            <i class="fa fa-star" aria-hidden="true"></i> 
-                            <i class="fa fa-star-o" aria-hidden="true"></i>
-                           </div>
-                           <div class="review-cont big-heading">631 Reviews</div>
-                         </div>
-                   </div>
-                  </div>
-                </div>
-                </div>
-
-                <div class="col-md-6 col-lg-4">
-                <div class="gal-home">
-                        <div class="hovereffect">
-                          <img alt="imageportofolio" class="img-responsive" src="img/island/maniwaya.jpeg">
-                        </div>
-                        <div class="gal-home-content">
-                          <div class="row">
-                               <div class="col-md-8"> 
-                                <h4 class="autoheight">Maniwaya Island</h4>
-                                <div class="star-content">
-                                  <i class="fa fa-star" aria-hidden="true"></i> 
-                                  <i class="fa fa-star" aria-hidden="true"></i> 
-                                  <i class="fa fa-star" aria-hidden="true"></i> 
-                                  <i class="fa fa-star" aria-hidden="true"></i> 
-                                  <i class="fa fa-star" aria-hidden="true"></i>
-                                 </div>
-                                 <div class="review-cont big-heading">521 Reviews</div>
-                               </div>
-                         </div>
-                        </div>
-                      </div>
-                </div>
-
-                <div class="col-md-6 col-lg-4">
-                  <div class="gal-home">
-                        <div class="hovereffect">
-                          <img alt="imageportofolio" class="img-responsive" src="img/island/mongpong.jpeg">
-                        </div>
-                        <div class="gal-home-content">
-                          <div class="row">
-                               <div class="col-md-8"> 
-                                <h4 class="autoheight">Mongpong Island</h4>
-                                <div class="star-content">
-                                  <i class="fa fa-star" aria-hidden="true"></i> 
-                                  <i class="fa fa-star" aria-hidden="true"></i> 
-                                  <i class="fa fa-star" aria-hidden="true"></i> 
-                                  <i class="fa fa-star" aria-hidden="true"></i> 
-                                  <i class="fa fa-star-o" aria-hidden="true"></i>
-                                 </div>
-                                 <div class="review-cont big-heading">472 Reviews</div>
-                               </div>
-                         </div>
-                        </div>
                       </div>
                      </div>
-
-                <div class="col-md-6 col-lg-4">
-                <div class="gal-home">
-                        <div class="hovereffect">
-                          <img alt="imageportofolio" class="img-responsive" src="img/island/natangco.jpeg">
-                        </div>
-                        <div class="gal-home-content">
-                          <div class="row">
-                               <div class="col-md-8"> 
-                                <h4 class="autoheight">Natangco Islet</h4>
-                                <div class="star-content">
-                                  <i class="fa fa-star" aria-hidden="true"></i> 
-                                  <i class="fa fa-star" aria-hidden="true"></i> 
-                                  <i class="fa fa-star" aria-hidden="true"></i> 
-                                  <i class="fa fa-star" aria-hidden="true"></i> 
-                                  <i class="fa fa-star-o" aria-hidden="true"></i>
-                                 </div>
-                                 <div class="review-cont big-heading">349 Reviews</div>
-                               </div>
-                         </div>
-                        </div>
+              </div>
+              </div>
+              
+              <div class="item">
+              <div class="gal-home">
+                  <div class="projects-grid">
+                      <div class="hovereffect-color">
+                      <img src="img/ourgallery/2.jpeg" alt="" class="w-gallery-image">
+                      <div class="overlay">
+                      <div class="v-align wrap">
                       </div>
-                </div>
-
-                <div class="col-md-6 col-lg-4">
-                <div class="gal-home">
-                  <div class="hovereffect">
-                    <img alt="imageportofolio" class="img-responsive" src="img/island/palad.jpeg">
-                  </div>
-                  <div class="gal-home-content">
-                    <div class="row">
-                         <div class="col-md-8"> 
-                          <h4 class="autoheight">Palad Sandbar</h4>
-                          <div class="star-content">
-                            <i class="fa fa-star" aria-hidden="true"></i> 
-                            <i class="fa fa-star" aria-hidden="true"></i> 
-                            <i class="fa fa-star" aria-hidden="true"></i> 
-                            <i class="fa fa-star" aria-hidden="true"></i> 
-                            <i class="fa fa-star-o" aria-hidden="true"></i>
-                           </div>
-                           <div class="review-cont big-heading">482 Reviews</div>
-                         </div>
-                   </div>
-                  </div>
-                </div>
-                </div>
-
-                <div class="col-md-6 col-lg-4">
-                  <div class="gal-home">
-                      <div class="hovereffect">
-                        <img alt="imageportofolio" class="img-responsive" src="img/island/villaroca.jpeg">
                       </div>
-                        <div class="gal-home-content">
-                          <div class="row">
-                               <div class="col-md-8"> 
-                                <h4 class="autoheight">Villa Roca</h4>
-                                <div class="star-content">
-                                  <i class="fa fa-star" aria-hidden="true"></i> 
-                                  <i class="fa fa-star" aria-hidden="true"></i> 
-                                  <i class="fa fa-star" aria-hidden="true"></i> 
-                                  <i class="fa fa-star" aria-hidden="true"></i> 
-                                  <i class="fa fa-star" aria-hidden="true"></i>
-                                 </div>
-                                 <div class="review-cont big-heading">516 Reviews</div>
-                               </div>
-                         </div>
-                        </div>
                       </div>
                      </div>
-
-             </div>
-            </div>
-            <!-- right content end -->
-               
-          </div>
-        </div>
-      </section>
-      <!-- section end -->
-      
+              </div>
+              </div>
+              
+              <div class="item">
+              <div class="gal-home ">
+                  <div class="projects-grid">
+                      <div class="hovereffect-color">
+                      <img src="img/ourgallery/3.jpeg" alt="" class="w-gallery-image">
+                      <div class="overlay">
+                      <div class="v-align wrap">
+                      </div>
+                      </div>
+                      </div>
+                     </div>
+              </div>
+              </div>
+              
+              <div class="item">
+              <div class="gal-home ">
+                  <div class="projects-grid">
+                      <div class="hovereffect-color">
+                      <img src="img/ourgallery/4.jpeg" alt="" class="w-gallery-image">
+                      <div class="overlay">
+                      <div class="v-align wrap">
+                      </div>
+                      </div>
+                      </div>
+                     </div>
+              </div>
+              </div>
+              
+              <div class="item">
+              <div class="gal-home">
+                  <div class="projects-grid">
+                      <div class="hovereffect-color">
+                      <img src="img/ourgallery/5.jpeg" alt="" class="w-gallery-image">
+                      <div class="overlay">
+                      <div class="v-align wrap">
+                      </div>
+                      </div>
+                      </div>
+                     </div>
+              </div>
+              </div>
+              
+              <div class="item">
+              <div class="gal-home ">
+                  <div class="projects-grid">
+                      <div class="hovereffect-color">
+                      <img src="img/ourgallery/6.jpeg" alt="" class="w-gallery-image">
+                      <div class="overlay">
+                      <div class="v-align wrap">
+                      </div>
+                      </div>
+                      </div>
+                     </div>
+              </div>
+              </div>     
+              
+ </div>
+ </div>
+ 
+ </div>
+ </div>
+ </section>
+ <!-- gallery end -->
        
       <!--  subfooter --> 
       <section aria-label="subfooter" class="subfooter no-bottom">
