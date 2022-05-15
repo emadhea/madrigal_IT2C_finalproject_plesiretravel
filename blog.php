@@ -1,8 +1,9 @@
+
 <!DOCTYPE html>
 <html lang="zxx">
   <head>
     <meta charset="utf-8">
-    <title>Plesire | Travel</title>
+    <title>Plesire | Interactive Travel Template</title>
     <meta content="" name="description">
     <meta content="" name="author">
     <meta content="" name="keywords">
@@ -19,7 +20,7 @@
     <link href="css/datepicker.min.css" rel="stylesheet">
     <!-- revolution slider css -->
     <link rel="stylesheet" type="text/css" href="css/fullwidth.css" media="screen" />
-    <link rel="stylesheet" type="text/css" href="rs-plugin/css/settings.css" media="screen" />
+  <link rel="stylesheet" type="text/css" href="rs-plugin/css/settings.css" media="screen" />
     <link rel="stylesheet" href="css/rev-settings.css" type="text/css">
     <!-- on3step CSS -->
     <link href="css/animated-on3step.css" rel="stylesheet">
@@ -40,7 +41,7 @@
     </div>
     <!-- preloader end -->
     
-   <!-- content wraper -->
+    <!-- content wraper -->
    <div class="content-wrapper">
     
    <header class="init">
@@ -53,7 +54,7 @@
          <div class="col-md-6">
           <div class="left">
             <div class="social-icons-subnav hidden-sm hidden-xs">
-                <div>Call Us : +63927 6073 941</div>
+                <div>Call Us : +02151 7778 009</div>
             </div>
           </div>
          </div>
@@ -84,7 +85,7 @@
       <!-- nav -->
       <div class="navbar-default-white navbar-fixed-top">
         <div class="container-fluid m-5-hor">
-        <div class="row">   
+        <div class="row">
         
            <!-- menu mobile display -->
            <button class="navbar-toggle" data-target=".navbar-collapse" data-toggle="collapse">
@@ -96,7 +97,7 @@
           <a class="navbar-brand white" href="index.php">
           <img class="white" alt="logo" src="img/logo.png">
           <img class="black" alt="logo" src="img/logo-white.png">
-          </a>
+          </a> 
           <!-- logo end -->
           
           <!-- mainmenu start -->
@@ -148,153 +149,182 @@
           <div class="row">
             <div class="col-md-12">
               <h1 class="big-heading">
-                All Tours
+                Blog
               </h1>
-              <p>See different spots in Marinduque</p>
+              <p>Discover different post of others</p>
             </div>
         </div>
        </div>
       </section>
       <!-- subheader end -->
       
-      <!-- section projects -->
-      <section aria-label="works" id="projects">
-            <div class="container-fluid">
-             <div class="row">
+      <!-- section -->
+      <section aria-label="section-blog" id="content">
+        <div class="container-fluid m-5-hor">
+          <div class="row">
           
-          <!-- project -->
-          <div class="v-align">
-          <div class="col-md-11 col-xs-12">
-            <!-- filter project -->
-                <ul id="filter-hide" class="init">
-                  <li class="filtter-icon"><i class="ti-layout-grid3-alt"></i>
-                  </li>
-                </ul>
-                
-            <!-- filter project end -->
-            
-                <div id="w-gallery-container" class="w-gallery-container">
-                
-                    <div class="w-gallery .alltours">
-                     <div class="projects-grid">
-                      <div class="hovereffect-color">
-                      <img src="img/all-tours/1.jpeg" alt="" class="w-gallery-image">
-                      <div class="overlay">
-                      <div class="v-align wrap">
-                      </div>
-                      </div>
-                      </div>
-                     </div>
-                  </div>
-                    
-                    <div class="w-gallery .gasan">
-                    <div class="projects-grid">
-                    <div class="hovereffect-color">
-                    <img src="img/all-tours/2.jpeg" alt="" class="w-gallery-image">
-                    <div class="overlay">
-                      <div class="v-align wrap">
-                      </div>
-                      </div>
-                      </div>
-                     </div>
-                  </div>
-                    
-                    <div class="w-gallery .stcruz">
-                    <div class="projects-grid">
-                    <div class="hovereffect-color">
-                    <img src="img/all-tours/3.jpeg" alt="" class="w-gallery-image">
-                    <div class="overlay">
-                      <div class="v-align wrap">
-                      </div>
-                      </div>
-                      </div>
-                     </div>
-                  </div>
-                    
-                    <div class="w-gallery .gasan">
-                    <div class="projects-grid onStep" data-animation="fadeInUp" data-time="0">
-                    <div class="hovereffect-color">
-                    <img src="img/all-tours/4.jpeg" alt="" class="w-gallery-image">
-                    <div class="overlay">
-                      <div class="v-align wrap">
-                      </div>
-                      </div>
-                      </div>
-                     </div>
-                  </div>
-                    
-                    <div class="w-gallery .buena">
-                    <div class="projects-grid onStep" data-animation="fadeInUp" data-time="0">
-                    <div class="hovereffect-color">
-                    <img src="img/all-tours/5.jpeg" alt="" class="w-gallery-image">
-                    <div class="overlay">
-                      <div class="v-align wrap">
-                      </div>
-                      </div>
-                      </div>
-                     </div>
-                  </div>
-                    
-                    <div class="w-gallery .stcruz">
-                    <div class="projects-grid onStep" data-animation="fadeInUp" data-time="0">
-                    <div class="hovereffect-color">
-                    <img src="img/all-tours/6.jpeg" alt="" class="w-gallery-image">
-                    <div class="overlay">
-                      <div class="v-align wrap">
-                      </div>
-                      </div>
-                      </div>
-                     </div>
-                    </div>
-                    
-                    <div class="w-gallery .mogpog">
-                     <div class="projects-grid onStep" data-animation="fadeInUp" data-time="0">
-                      <div class="hovereffect-color">
-                      <img src="img/all-tours/7.jpeg" alt="" class="w-gallery-image">
-                      <div class="overlay">
-                      <div class="v-align wrap">
-                      </div>
-                      </div>
-                      </div>
-                     </div>
-                  </div>
-                    
-                    <div class="w-gallery .gasan">
-                    <div class="projects-grid onStep" data-animation="fadeInUp" data-time="0">
-                    <div class="hovereffect-color">
-                    <img src="img/all-tours/8.jpeg" alt="" class="w-gallery-image">
-                    <div class="overlay">
-                      <div class="v-align wrap">
-                      </div>
-                      </div>
-                      </div>
-                     </div>
-                  </div>
-                    
-                    <div class="w-gallery .stcruz">
-                    <div class="projects-grid onStep" data-animation="fadeInUp" data-time="0">
-                    <div class="hovereffect-color">
-                    <img src="img/all-tours/9.jpeg" alt="" class="w-gallery-image">
-                    <div class="overlay">
-                      <div class="v-align wrap">
-                      </div>
-                      </div>
-                      </div>
-                     </div>
-                  </div>
-                  
-                </div>
-                
-                </div>
-                </div>
-                <!-- project end -->
-                
-                </div>
-            </div>
-        </section>
-      <!-- section projects end -->
-      
+            <!-- left content -->
+            <div class="col-md-8">
+              
+                          <div class="blog-simple">
+							<a href="#"><img class="img-responsive" src="img/blog/1.jpeg" alt=""></a>
+							<div class="blog-text">
+                        <span class="user-post"><i class="ti-user"></i>Ema Madrigal</span>
+									<span class="date-post"><i class="ti-calendar"></i>April 28th</span>
+									<span class="comment"><a href=""><i class="ti-comment"></i>5</a></span>
+									<p>Beachin'... ready na ko mangitim >.<</p>
+									<a class="btn-blog" href="blog-post1.php">More Detail</a>
+							</div> 
+						</div>
 
+						<div class="blog-simple">
+							<a href="#"><img class="img-responsive" src="img/blog/2.jpeg" alt=""></a>
+							<div class="blog-text">
+									<span class="user-post"><i class="ti-user"></i>Ashley Saludo</span>
+									<span class="date-post"><i class="ti-calendar"></i>May 15th</span>
+									<span class="comment"><a href=""><i class="ti-comment"></i>6</a></span>
+									<p>Long time no sea <3</p>
+									<a class="btn-blog" href="blog-post2.php">More Detail</a>
+							</div> 
+						</div>
+
+						<div class="blog-simple">
+							<a href="#"><img class="img-responsive" src="img/blog/3.jpeg" alt=""></a>
+							<div class="blog-text">
+									<span class="user-post"><i class="ti-user"></i>Justine Solito</span>
+									<span class="date-post"><i class="ti-calendar"></i>Feb. 23th</span>
+									<span class="comment"><a href=""><i class="ti-comment"></i>3</a></span>
+									<p>Ang hot!! ng panahon</p>
+									<a class="btn-blog" href="blog-post3.php">More Detail</a>
+							</div> 
+						</div>
+                        
+    <!-- Smaller pagination -->
+    <ul class="pagination">
+        <li><a href="#">&laquo;</a></li>
+        <li><a>1</a></li>
+        <li><a>2</a></li>
+        <li><a>3</a></li>
+        <li><a>4</a></li>
+        <li><a>5</a></li>
+        <li><a>&raquo;</a></li>
+    </ul>            
+               
+            </div>
+            <!-- left content end -->
+            
+            <!-- right content -->
+            <div class="col-md-4">
+              <aside>
+              
+                <!-- widget -->
+              <div class="widget">
+              <form role="search">
+                <div class="input-group">
+						<input type="text" id="search1" class="form-control" placeholder="search">
+						<div class="input-group-btn">
+							<button type="submit"><span class="icon"><i class="fa fa-search"></i></span></button>
+						</div>
+				</div>
+                </form>
+                </div>
+                <!-- widget end -->
+                
+                <!-- widget -->
+                <div class="widget">
+                  <h5>
+                    Recent posts
+                  </h5>
+
+                  <div class="devider-widget">
+                  </div>
+
+                  <div class="recent">
+                    <div>
+                      <img alt="#" class="pull-left" src="img/blog/recent/1.jpeg">
+                      <h6>
+                        <a href="#">Justine Solito</a>
+                      </h6>
+                      <p>
+                        All i need is a good dose of vitamin sea
+                      </p>
+                    </div>
+
+                    <div>
+                      <a href="#"><img alt="#" class="pull-left" src="img/blog/recent/2.jpeg"></a>
+                      <h6>
+                        <a href="#">Juan Cruz</a>
+                      </h6>
+
+                      <p>
+                        The ocean made me salty
+                      </p>
+                    </div>
+
+                    <div>
+                      <a href="#"><img alt="#" class="pull-left" src="img/blog/recent/3.jpeg"></a>
+                      <h6>
+                        <a href="#">Justine Solito</a>
+                      </h6>
+
+                      <p>
+                        No one likes shady beaches
+                      </p>
+                    </div>
+                  </div>
+                </div>
+                <!-- widget end -->
+                
+                <!-- widget -->
+                <div class="widget">
+                  <h5>
+                    Tags
+                  </h5>
+
+                  <div class="devider-widget">
+                  </div>
+
+                  <div class="tags">
+                    <div>
+                      <a>Photography</a>
+                    </div>
+
+                    <div>
+                      <a>Trends</a>
+                    </div>
+
+                    <div>
+                      <a>Beach</a>
+                    </div>
+
+                    <div>
+                      <a>Personal</a>
+                    </div>
+
+                    <div>
+                      <a>Resort</a>
+                    </div>
+
+                    <div>
+                      <a>Sea</a>
+                    </div>
+
+                    <div>
+                      <a>Wave</a>
+                    </div>
+                  </div>
+                </div>
+                <!-- widget end -->
+                
+              </aside>
+            </div>
+            <!-- right content end -->
+               
+          </div>
+        </div>
+      </section>
+      <!-- section end -->
+      
        
       <!-- footer -->
       <footer class="main text-center">
