@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE destinations [
+	<!ELEMENT destinations (destination)>
+	<!ELEMENT destination (name, type, star, review)>
+
+	<!ELEMENT name (#PCDATA)>
+	<!ELEMENT type (#PCDATA)>
+	<!ELEMENT star (#PCDATA)>
+	<!ELEMENT review (#PCDATA)>
+
+]>
+
+<destinations>
+	<destination>
+		<name> Gaspar Island </name>
+		<type> Island </type>
+		<star> 4 </star>
+		<review> 631 </review>
+	</destination>
+
+	<destination>
+		<name> Maniwaya Island </name>
+		<type> Island </type>
+		<star> 5 </star>
+		<review> 521 </review>
+	</destination>
+
+	<destination>
+		<name> Mongpong Island </name>
+		<type> Island </type>
+		<star> 4 </star>
+		<review> 472 </review>
+	</destination>
+
+	<destination>
+		<name> Natangco Islet </name>
+		<type> Island </type>
+		<star> 4 </star>
+		<review> 349 </review>
+	</destination>
+
+	<destination>
+		<name> Palad Sandbar </name>
+		<type> Island </type>
+		<star> 4 </star>
+		<review> 482 </review>
+	</destination>
+
+	<destination>
+		<name> Gaspar Island </name>
+		<type> Island </type>
+		<star> 4 </star>
+		<review> 631 </review>
+	</destination>
+
+	<destination>
+		<name> Villa Roca </name>
+		<type> Island </type>
+		<star> 5 </star>
+		<review> 516 </review>
+	</destination>
+
+	<destination>
+		<name> Bulusukan Falls </name>
+		<type> Falls </type>
+		<star> 4 </star>
+		<review> 132 </review>
+	</destination>
+
+	<destination>
+		<name> Duyay Falls </name>
+		<type> Falls </type>
+		<star> 5 </star>
+		<review> 465 </review>
+	</destination>
+
+	<destination>
+		<name> Ginaras Falls </name>
+		<type> Falls </type>
+		<star> 4 </star>
+		<review> 234 </review>
+	</destination>
+
+	<destination>
+		<name> Kawa Kawa Falls </name>
+		<type> Falls </type>
+		<star> 4 </star>
+		<review> 172 </review>
+	</destination>
+
+	<destination>
+		<name> Lambingan Falls </name>
+		<type> Falls </type>
+		<star> 5 </star>
+		<review> 485 </review>
+	</destination>
+
+	<destination>
+		<name> Paadjao Falls </name>
+		<type> Falls </type>
+		<star> 5 </star>
+		<review> 521 </review>
+	</destination>
+
+	<destination>
+		<name> Bagumbungan Cave </name>
+		<type> Cave </type>
+		<star> 4 </star>
+		<review> 97 </review>
+	</destination>
+
+	<destination>
+		<name> Bathala Cave </name>
+		<type> Cave </type>
+		<star> 5 </star>
+		<review> 276 </review>
+	</destination>
+
+	<destination>
+		<name> Duyay Cave </name>
+		<type> Cave </type>
+		<star> 5 </star>
+		<review> 342 </review>
+	</destination>
+
+	<destination>
+		<name> Talamban Cave </name>
+		<type> Cave </type>
+		<star> 4 </star>
+		<review> 165 </review>
+	</destination>
+
+	<destination>
+		<name> Tarug Cave </name>
+		<type> Cave </type>
+		<star> 5 </star>
+		<review> 387 </review>
+	</destination>
+
+	<destination>
+		<name> Ka Amon Cave </name>
+		<type> Cave </type>
+		<star> 4 </star>
+		<review> 176 </review>
+	</destination>
+
+	<destination>
+		<name> Aroma Beach </name>
+		<type> Beach </type>
+		<star> 3 </star>
+		<review> 156 </review>
+	</destination>
+
+	<destination>
+		<name> Gasan Public Beach </name>
+		<type> Beach </type>
+		<star> 4 </star>
+		<review> 199 </review>
+	</destination>
+
+	<destination>
+		<name> Maligaya Beach </name>
+		<type> Beach </type>
+		<star> 4 </star>
+		<review> 154 </review>
+	</destination>
+
+	<destination>
+		<name> Poctoy White Beach </name>
+		<type> Beach </type>
+		<star> 5 </star>
+		<review> 698 </review>
+	</destination>
+
+	<destination>
+		<name> Treasure Place </name>
+		<type> Beach </type>
+		<star> 5 </star>
+		<review> 521 </review>
+	</destination>
+
+	<destination>
+		<name> Ulong Beach </name>
+		<type> Beach </type>
+		<star> 4 </star>
+		<review> 372 </review>
+	</destination>
+
+	<destination>
+		<name> Boac Cathedral </name>
+		<type> Cathedral </type>
+		<star> 5 </star>
+		<review> 534 </review>
+	</destination>
+
+	<destination>
+		<name> Buenavista Church </name>
+		<type> Cathedral </type>
+		<star> 4 </star>
+		<review> 254 </review>
+	</destination>
+
+	<destination>
+		<name> Gasan Church </name>
+		<type> Cathedral </type>
+		<star> 5 </star>
+		<review> 476 </review>
+	</destination>
+
+	<destination>
+		<name> Mogpog Church </name>
+		<type> Cathedral </type>
+		<star> 4 </star>
+		<review> 276 </review>
+	</destination>
+
+	<destination>
+		<name> Santa Cruz Church </name>
+		<type> Cathedral </type>
+		<star> 5 </star>
+		<review> 422 </review>
+	</destination>
+
+	<destination>
+		<name> Torijjos Church </name>
+		<type> Cathedral </type>
+		<star> 4 </star>
+		<review> 243 </review>
+	</destination>
+
+	<destination>
+		<name> Bantay Mountain View Deck </name>
+		<type> Mountain </type>
+		<star> 5 </star>
+		<review> 365 </review>
+	</destination>
+
+	<destination>
+		<name> Banudyo Cliff Hill </name>
+		<type> Mountain </type>
+		<star> 4 </star>
+		<review> 101 </review>
+	</destination>
+
+	<destination>
+		<name> Mount Malindig </name>
+		<type> Mountain </type>
+		<star> 5 </star>
+		<review> 316 </review>
+	</destination>
+
+	<destination>
+		<name> Paligawan </name>
+		<type> Mountain </type>
+		<star> 5 </star>
+		<review> 198 </review>
+	</destination>
+
+	<destination>
+		<name> Tabag Place </name>
+		<type> Mountain </type>
+		<star> 5 </star>
+		<review> 498 </review>
+	</destination>
+
+	<destination>
+		<name> Tumapon Hill </name>
+		<type> Mountain </type>
+		<star> 4 </star>
+		<review> 98 </review>
+	</destination>
+
+	<destination>
+		<name> Freedom Eco Adventure Park </name>
+		<type> Resort </type>
+		<star> 4 </star>
+		<review> 376 </review>
+	</destination>
+
+	<destination>
+		<name> Hidden Greenery Resort and Event Place </name>
+		<type> Resort </type>
+		<star> 4 </star>
+		<review> 276 </review>
+	</destination>
+
+	<destination>
+		<name> Luxor Resort and Restaurant </name>
+		<type> Resort </type>
+		<star> 5 </star>
+		<review> 298 </review>
+	</destination>
+
+	<destination>
+		<name> Pinkys Taha </name>
+		<type> Resort </type>
+		<star> 5 </star>
+		<review> 354 </review>
+	</destination>
+
+	<destination>
+		<name> Sweet Lips </name>
+		<type> Resort </type>
+		<star> 4 </star>
+		<review> 276 </review>
+	</destination>
+
+	<destination>
+		<name> Villa d Arco </name>
+		<type> Resort </type>
+		<star> 5 </star>
+		<review> 390 </review>
+	</destination>
+
+</destinations>
