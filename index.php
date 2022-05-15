@@ -32,567 +32,569 @@
   
   <body>
   
-    <!-- preloader -->
-    <div class="bg-preloader-white"></div>
-    <div class="preloader-white">
-      <div class="mainpreloader">
-        <span></span>
-      </div>
-    </div>
-    <!-- preloader end -->
-    
-   <!-- content wraper -->
-   <div class="content-wrapper">
-    
-   <header class="init">
-    
-    <!-- subnav -->
-    <div class="container-fluid m-5-hor">
-    <div class="row">
-        <div class="subnav">
-
-         <div class="col-md-6">
-          <div class="left">
-            <div class="social-icons-subnav hidden-sm hidden-xs">
-                <div>Call Us : +63927 6073 941</div>
-            </div>
-          </div>
-         </div>
-         
-         <div class="col-md-6">
-          <div class="right">
-            <div id="sub-icon" class="social-icons-subnav">
-                <a href="#"><span class="ti-facebook"></span></a>
-                <a href="#"><span class="ti-dribbble"></span></a>
-                <a href="#"><span class="ti-twitter"></span></a>
-                <a href="#"><span class="ti-instagram"></span></a>
-                <a href="#"><span class="ti-linkedin"></span></a>
-            </div>
-            <div class="social-icons-subnav">
-              <a data-toggle="modal" data-target="#fLogin"><span class="ti-lock"></span> Login</a>
-            </div>    
-            <div class="social-icons-subnav hidden-sm hidden-xs">
-              <a data-toggle="modal" data-target="#fsignUp"><span class="ti-user"></span> Sign up</a>
-            </div>
-          </div>
-         </div>
-        
-        </div>
-    </div>
-    </div>
-    <!-- subnav end -->
-    
-      <!-- nav -->
-      <div class="navbar-default-white navbar-fixed-top">
-        <div class="container-fluid m-5-hor">
-        <div class="row">   
-        
-           <!-- menu mobile display -->
-           <button class="navbar-toggle" data-target=".navbar-collapse" data-toggle="collapse">
-           <span class="icon icon-bar"></span> 
-           <span class="icon icon-bar"></span> 
-           <span class="icon icon-bar"></span></button> 
-          
-          <!-- logo --> 
-          <a class="navbar-brand white" href="index.php">
-          <img class="white" alt="logo" src="img/logo.png">
-          <img class="black" alt="logo" src="img/logo-white.png">
-          </a>
-          <!-- logo end -->
-          
-          <!-- mainmenu start -->
-          <div class="white menu-init" id="main-menu">
-            <nav id="menu-center">
-              <ul>
-                <li><a  href="index.php">Home</a></li>
-                <li><a href="#">Gallery <i class="fa fa-angle-down"></i></a> <ul>
-                    <li><a href="alltours.php">All Tours</a></li>
-                    <li><a href="ourgallery.php">Our Gallery</a></li>
-                  </ul>
-                </li>
-                <li><a  href="#">Destination <i class="fa fa-angle-down"></i></a>
-                <ul>
-                    <li><a href="island.php">Island</a></li>
-                    <li><a href="falls.php">Falls</a></li>
-                    <li><a href="cave.php">Cave</a></li>
-                    <li><a href="beach.php">Beach</a></li>
-                    <li><a href="cathedral.php">Cathedral</a></li>
-                    <li><a href="mountain.php">Mountain</a></li>
-                    <li><a href="resort.php">Resort</a></li>
-                    </ul>
-                </li>
-                <li><a  href="#">Blog <i class="fa fa-angle-down"></i></a>
-                  <ul>
-                    <li><a href="blog.php">Blog Post</a></li>
-                  </ul>
-                </li>
-                <li><a  href="contact.php">Contact</a></li>
-                <li><a href="#">About <i class="fa fa-angle-down"></i></a>
-                <ul>
-                    <li><a href="about.php">About Us</a></li>
-                </li>
-              </ul>
-            </nav>
-          </div>
-          <!-- mainmenu end -->
-          
-        </div>
-        </div>
-        <!-- container -->
-      </div>
-      <!-- nav end -->
-      </header>
-      
-      <!-- home -->
-      <div id="home">
-      <!-- revolution slider -->
-      <section class="no-top no-bottom" aria-label="section-slider">
-      <div class="fullwidthbanner-container">
-      <div id="revolution-slider-half">
-                    <ul>
-
-                        <li data-transition="parallaxtobottom" data-slotamount="10" data-masterspeed="1200" data-delay="5000">
-                            <!--  BACKGROUND IMAGE -->
-                            <img src="img/images-slider/img-slide-1.jpeg" alt="" data-start="0" data-bgposition="center center" data-kenburns="on" data-duration="10000" data-ease="Linear.easeNone" data-bgfit="120" data-bgfitend="100" data-bgpositionend="center center"/>
-                            <div class="tp-caption slide-big-heading sft"
-                                data-x="center"
-                                data-y="300"
-                                data-speed="800"
-                                data-start="400"
-                                data-easing="easeInOutExpo"
-                                data-endspeed="450">
-                                Amazing Diversity on Travel
-                            </div>
-
-                            <div class="tp-caption slide-sub-heading sft"
-                                data-x="center"
-                                data-y="370"
-                                data-speed="1000"
-					            data-start="800"
-					            data-easing="easeOutExpo"
-                                data-endspeed="400">
-                                Time to unwind
-                            </div>
-
-                            <div class="tp-caption sfb"
-                                data-x="center"
-                                data-y="410"
-                                data-speed="400"
-                                data-start="800"
-                                data-easing="easeInOutExpo">
-                                <div class="btn-slider"><span class="shine"></span><a href="#" >More Detail</a></div>
-                            </div>
-
-                        </li>
-                        
-                        <li data-transition="parallaxtobottom" data-slotamount="10" data-masterspeed="1200" data-delay="5000">
-                            <!--  BACKGROUND IMAGE -->
-                            <img src="img/images-slider/img-slide-2.jpeg" alt="" data-start="0" data-bgposition="center center" data-kenburns="on" data-duration="10000" data-ease="Linear.easeNone" data-bgfit="120" data-bgfitend="100" data-bgpositionend="center center" />
-                            <div class="tp-caption slide-big-heading sft"
-                                data-x="center"
-                                data-y="300"
-                                data-speed="800"
-                                data-start="400"
-                                data-easing="easeInOutExpo"
-                                data-endspeed="450">
-                                Perfect Place on Vacation
-                            </div>
-
-                            <div class="tp-caption slide-sub-heading sft"
-                                data-x="center"
-                                data-y="370"
-                                data-speed="1000"
-					            data-start="800"
-					            data-easing="easeOutExpo"
-                                data-endspeed="400">
-                                Marinduque
-                            </div>
-
-                            <div class="tp-caption sfb"
-                                data-x="center"
-                                data-y="410"
-                                data-speed="400"
-                                data-start="800"
-                                data-easing="easeInOutExpo">
-                                <div class="btn-slider"><span class="shine"></span><a href="#" >More Detail</a></div>
-                            </div>
-
-                        </li>
-                        
-                        <li data-transition="parallaxtobottom" data-slotamount="10" data-masterspeed="1200" data-delay="5000">
-                            <!--  BACKGROUND IMAGE -->
-                            <img src="img/images-slider/img-slide-3.jpeg" alt="" data-start="0" data-bgposition="center center" data-kenburns="on" data-duration="10000" data-ease="Linear.easeNone" data-bgfit="120" data-bgfitend="100" data-bgpositionend="center center" />
-                            <div class="tp-caption slide-big-heading sft"
-                                data-x="center"
-                                data-y="300"
-                                data-speed="800"
-                                data-start="400"
-                                data-easing="easeInOutExpo"
-                                data-endspeed="450">
-                                It's More Fun With You
-                            </div>
-
-                            <div class="tp-caption slide-sub-heading sft"
-                                data-x="center"
-                                data-y="370"
-                                data-speed="1000"
-					            data-start="800"
-					            data-easing="easeOutExpo"
-                                data-endspeed="400">
-                                Discover hidden places in Marinduque
-                            </div>
-
-                            <div class="tp-caption sfb"
-                                data-x="center"
-                                data-y="410"
-                                data-speed="400"
-                                data-start="800"
-                                data-easing="easeInOutExpo">
-                                <div class="btn-slider"><span class="shine"></span><a href="#" >More Detail</a></div>
-                            </div>
-
-                        </li>
-                       
-                    </ul>
-                    <div class="tp-bannertimer hide"></div>
-                </div>
-              </div>
-        </section>
-
-      <!-- milestone end -->
-
-		<!-- section search -->
-		<section class="frm-search">
-		<div class="container-fluid m-5-hor m-5-hor-dev">
-		  <div class="row">
-		  
-		    <h2 class="big-heading">Find your adventure with us</h2>
-		        
-				<form class="form-inline" id="sform">
-				  <div class="form-group search-icn">
-		        <label for="key">Keyword</label>
-		        <input type="text" class="form-control" required="" id="key">
-		      </div>
-				  <div class="form-group">
-				    <label>Select your trip</label>
-				    <select name="select-trip" required="">
-		          <option value="">Any</option>
-		          <option value="#">Nature Travel</option>
-		          <option value="#">Cultural Travel</option>
-		          <option value="#">Family Travel</option>
-		          <option value="#">Holiday Travel</option>
-		          <option value="#">Luxury Travel</option>
-		          <option value="#">Wild &amp; Adventure Travel</option>
-		        </select>
-				  </div>
-				  <div class="form-group">
-				    <label>Destination</label>
-				    <select name="destination" required="">
-		          <option value="">Any</option>
-		          <option value="#">Island</option>
-		          <option value="#">Falls</option>
-		          <option value="#">Beach</option>
-		          <option value="#">Cave</option>
-                  <option value="#">Resort</option>
-		          <option value="#">Cathedral</option>
-                  <option value="#">Mountain</option>
-		        </select>
-				  </div>
-		      </div>
-				  <input class="btn-frm-search" value="FIND NOW" type="submit">
-				</form> 
-		  
-		  </div>
-		</div>
-		</section>
-		<!-- section search end -->
-
-      <!--  top rated --> 
-      <section aria-label="top-rated">
-             <div class="container-fluid m-5-hor">
-                <div class="row">
-                  <div class="col-md-6 sp-padding ">
-                    <img alt="top-rated" class="img-responsive" src="img/img-top-rated.jpeg">
-                  </div>
-                  <div class="col-md-6 p-30">
-                    <h3 class="big-heading">Marinduque</h3>
-                    <span class="devider-left"></span>
-                    <p>Marinduque is a heart-shaped island province in the Mimaropa region that nestles between Tayabas Bay and the Sibuyan Sea. It is situated at the heart of the Philippines and is considered the archipelago’s geographic center. During the Lenten season, the island gets a bit crowded for the annual Moriones Festival, one of the oldest religious festivals in the Philippines.</p>
-                </div>
-             </div>
-      </section>  
-
-      <!--  gallery home --> 
-      <section aria-label="gallery">
-        <div class="container-fluid m-5-hor">
-          <div class="row">
-
-           </div>
-          </div>
-
-         <div class="onStep" data-animation="fadeInUp" data-time="0">
-         <div id="owl-gal" class="owl-carousel">
-                    
-                     <div class="item">
-                      <div class="gal-home">
-                        <div class="hovereffect">
-                          <img alt="imageportofolio" class="img-responsive" src="img/index gallery/spoctoy.jpeg">
-                        </div>
-                        <div class="gal-home-content">
-                          <div class="row">
-                               <div class="col-md-9"> 
-                                <h4>Poctoy White Beach</h4>
-                                <div class="star-content">
-                                  <i class="fa fa-star" aria-hidden="true"></i> 
-                                  <i class="fa fa-star" aria-hidden="true"></i> 
-                                  <i class="fa fa-star" aria-hidden="true"></i> 
-                                  <i class="fa fa-star" aria-hidden="true"></i> 
-                                  <i class="fa fa-star-o" aria-hidden="true"></i>
-                                 </div>
-                                 <div class="review-cont big-heading">412 Reviews</div>
-                               </div>
-                         </div>
-                        </div>
-                        </a>
-                      </div>
-                      </div>
-
-                      <div class="item">
-                      <div class="gal-home">
-                        <div class="hovereffect">
-                          <img alt="imageportofolio" class="img-responsive" src="img/index gallery/spalad.jpeg">
-                        </div>
-                        <div class="gal-home-content">
-                          <div class="row">
-                               <div class="col-md-9"> 
-                                <h4>Palad Sandbar</h4>
-                                <div class="star-content">
-                                  <i class="fa fa-star" aria-hidden="true"></i> 
-                                  <i class="fa fa-star" aria-hidden="true"></i> 
-                                  <i class="fa fa-star" aria-hidden="true"></i> 
-                                  <i class="fa fa-star" aria-hidden="true"></i> 
-                                  <i class="fa fa-star-o" aria-hidden="true"></i>
-                                 </div>
-                                 <div class="review-cont big-heading">328 Reviews</div>
-                               </div>
-                         </div>
-                        </div>
-                      </div>
-                      </div>
-
-                      <div class="item">
-                      <div class="gal-home">
-                        <div class="hovereffect">
-                          <img alt="imageportofolio" class="img-responsive" src="img/index gallery/smalindig.jpeg">
-                        </div>
-                        <div class="gal-home-content">
-                          <div class="row">
-                               <div class="col-md-9"> 
-                                <h4>Mount Malindig</h4>
-                                <div class="star-content">
-                                  <i class="fa fa-star" aria-hidden="true"></i> 
-                                  <i class="fa fa-star" aria-hidden="true"></i> 
-                                  <i class="fa fa-star" aria-hidden="true"></i> 
-                                  <i class="fa fa-star" aria-hidden="true"></i> 
-                                  <i class="fa fa-star-o" aria-hidden="true"></i>
-                                 </div>
-                                 <div class="review-cont big-heading">245 Reviews</div>
-                               </div>
-                         </div>
-                        </div>
-                        </a>
-                      </div>
-                      </div>
-
-                      <div class="item">
-                      <div class="gal-home">
-                        <div class="hovereffect">
-                          <img alt="imageportofolio" class="img-responsive" src="img/index gallery/sboac.jpeg">
-                        </div>
-                        <div class="gal-home-content">
-                          <div class="row">
-                               <div class="col-md-9"> 
-                                <h4>Boac Cathedral</h4>
-                                <div class="star-content">
-                                  <i class="fa fa-star" aria-hidden="true"></i> 
-                                  <i class="fa fa-star" aria-hidden="true"></i> 
-                                  <i class="fa fa-star" aria-hidden="true"></i> 
-                                  <i class="fa fa-star" aria-hidden="true"></i> 
-                                  <i class="fa fa-star-o" aria-hidden="true"></i>
-                                 </div>
-                                 <div class="review-cont big-heading">760 Reviews</div>
-                               </div>
-                         </div>
-                        </div>
-                      </div>
-                      </div>
-
-                      <div class="item">
-                      <div class="gal-home">
-                        <div class="hovereffect">
-                          <img alt="imageportofolio" class="img-responsive" src="img/index gallery/smaniwaya.jpeg">
-                        </div>
-                        <div class="gal-home-content">
-                          <div class="row">
-                               <div class="col-md-9"> 
-                                <h4>Maniwaya Island</h4>
-                                <div class="star-content">
-                                  <i class="fa fa-star" aria-hidden="true"></i> 
-                                  <i class="fa fa-star" aria-hidden="true"></i> 
-                                  <i class="fa fa-star" aria-hidden="true"></i> 
-                                  <i class="fa fa-star" aria-hidden="true"></i> 
-                                  <i class="fa fa-star-o" aria-hidden="true"></i>
-                                 </div>
-                                 <div class="review-cont big-heading">654 Reviews</div>
-                               </div>
-                         </div>
-                        </div>
-                      </div>
-                      </div>
-
-                      <div class="item">
-                      <div class="gal-home">
-                        <div class="hovereffect">
-                          <img alt="imageportofolio" class="img-responsive" src="img/index gallery/sbagumbungan.jpeg">
-                        </div>
-                        <div class="gal-home-content">
-                          <div class="row">
-                               <div class="col-md-9"> 
-                                <h4>Bagumbungan Cave</h4>
-                                <div class="star-content">
-                                  <i class="fa fa-star" aria-hidden="true"></i> 
-                                  <i class="fa fa-star" aria-hidden="true"></i> 
-                                  <i class="fa fa-star" aria-hidden="true"></i> 
-                                  <i class="fa fa-star" aria-hidden="true"></i> 
-                                  <i class="fa fa-star-o" aria-hidden="true"></i>
-                                 </div>
-                                 <div class="review-cont big-heading">103 Reviews</div>
-                               </div>
-                         </div>
-                        </div>
-                      </div>
-                      </div>  
-                      
-         </div>
-         </div>
-      </section> 
-      <!--  gallery home end --> 
-
-      <!-- footer -->
-      <footer class="main text-center">
-        <div class="container-fluid m-5-hor">
-          <div class="row">
-          
-          <div class="onStep" data-animation="fadeInUp" data-time="300">
-          <div class="col-md-4 text-left">
-          <span><a href="#">Email: plesiretravel@gmail.com</a></span>
-          <span>Copyright - 2022 Plesire Travel All Right Reserved</span>
-          </div>
-          
-          <div class="col-md-4">
-                <span class="logo">
-                <img alt="logo" src="img/logo-white.png">
-                </span>
-            </div>
-            
-            <div class="col-md-4 text-right">
-              <span>Dili, Gasan, Marinduque</span>
-              <span>Phone: +63927 6073 941</span>
-            </div>
-            </div>
-
-            
-          </div>
-        </div>
-      </footer>
-      <!-- footer end -->
-      
-      
-      <!-- ScrolltoTop -->
-      <div id="totop" class="init">
-        <span class="ti-angle-up"></span>
-      </div>  
-
-              <!-- modal login -->
-              <div id="fLogin" class="modal fade">
-                <div class="modal-dialog modal-login">
-                  <div class="modal-content">
-                    <div class="modal-header">      
-                      <h4 class="modal-title">Member Log In</h4>
-                      <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
-                    </div>
-                    <div class="modal-body">
-                      <form action="#" method="post">
-                        <div class="form-group">
-                          <label>User Name</label>
-                          <input type="text" class="form-control" required="required">
-                        </div>
-                        <div class="form-group">
-                          <label>Password</label>
-                          <input type="password" class="form-control" required="required">         
-                        </div>
-                        <div class="form-group">
-                          <input type="submit" class="btn btn-primary btn-block btn-lg" value="Log In">
-                        </div>
-                      </form>       
-                      
-                    </div>
-                    <div class="modal-footer">
-                      <a href="#">or Sign Up</a>
-                    </div>
-                  </div>
-                </div>
-              </div>
-              <!-- modal login end -->
-
-              <!-- modal registration -->
-              <div id="fsignUp" class="modal fade">
-                <div class="modal-dialog modal-login">
-                  <div class="modal-content">
-                    <div class="modal-header">      
-                      <h4 class="modal-title">Member Registration</h4>
-                      <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
-                    </div>
-                    <div class="modal-body">
-                      <form>
-                        <div class="form-group">
-                        <label>First Name</label>
-                        <input type="text" name="firstname" class="form-control" required="required">
-                        </div>
-                        <div class="form-group">
-                        <label>Last Name</label>
-                        <input type="text" name="lastname" class="form-control" required="required">
-                        </div>
-                        <div class="form-group">
-                        <label>Email Address</label>
-                        <input type="email" name="email" class="form-control" required="required">
-                        </div>
-                        <div class="form-group">
-                        <label>Username</label>
-                        <input type="text" name="username" class="form-control" required="required">
-                        </div>
-                        <div class="form-group">
-                        <label>Password</label>
-                        <input type="password" name="password" class="form-control" required="required">
-                        </div>
-                        <div class="form-group">
-                        <label><input type="checkbox" name="terms"> I agree with the <a href="#">Terms and Conditions</a>.</label>
-                        </div>
-                        <div class="form-group"><input type="submit" value="Sign up" class="btn btn-primary btn-block btn-lg"></div>
-                        <div class="clearfix"></div>
-                      </form>       
-                      
-                    </div>
-                    <div class="modal-footer">
-                      <a href="#">or Log In</a>
-                    </div>
-                  </div>
-                </div>
-              </div>
-              <!-- modal registration end -->      
-
-     
-    </div>
+<?php
+echo '<!-- preloader -->';
+echo '<div class="bg-preloader-white"></div>';
+echo '<div class="preloader-white">';
+echo '<div class="mainpreloader">';
+echo '<span></span>';
+echo '</div>';
+echo '</div>';
+echo '<!-- preloader end -->';
+echo '';
+echo '<!-- content wraper -->';
+echo '<div class="content-wrapper">';
+echo '';
+echo '<header class="init">';
+echo '';
+echo '<!-- subnav -->';
+echo '<div class="container-fluid m-5-hor">';
+echo '<div class="row">';
+echo '<div class="subnav">';
+echo '';
+echo '<div class="col-md-6">';
+echo '<div class="left">';
+echo '<div class="social-icons-subnav hidden-sm hidden-xs">';
+echo '<div>Call Us : +63927 6073 941</div>';
+echo '</div>';
+echo '</div>';
+echo '</div>';
+echo '';
+echo '<div class="col-md-6">';
+echo '<div class="right">';
+echo '<div id="sub-icon" class="social-icons-subnav">';
+echo '<a href="#"><span class="ti-facebook"></span></a>';
+echo '<a href="#"><span class="ti-dribbble"></span></a>';
+echo '<a href="#"><span class="ti-twitter"></span></a>';
+echo '<a href="#"><span class="ti-instagram"></span></a>';
+echo '<a href="#"><span class="ti-linkedin"></span></a>';
+echo '</div>';
+echo '<div class="social-icons-subnav">';
+echo '<a data-toggle="modal" data-target="#fLogin"><span class="ti-lock"></span> Login</a>';
+echo '</div>';
+echo '<div class="social-icons-subnav hidden-sm hidden-xs">';
+echo '<a data-toggle="modal" data-target="#fsignUp"><span class="ti-user"></span> Sign up</a>';
+echo '</div>';
+echo '</div>';
+echo '</div>';
+echo '';
+echo '</div>';
+echo '</div>';
+echo '</div>';
+echo '<!-- subnav end -->';
+echo '';
+echo '<!-- nav -->';
+echo '<div class="navbar-default-white navbar-fixed-top">';
+echo '<div class="container-fluid m-5-hor">';
+echo '<div class="row">';
+echo '';
+echo '<!-- menu mobile display -->';
+echo '<button class="navbar-toggle" data-target=".navbar-collapse" data-toggle="collapse">';
+echo '<span class="icon icon-bar"></span>';
+echo '<span class="icon icon-bar"></span>';
+echo '<span class="icon icon-bar"></span></button>';
+echo '';
+echo '<!-- logo -->';
+echo '<a class="navbar-brand white" href="index.php">';
+echo '<img class="white" alt="logo" src="img/logo.png">';
+echo '<img class="black" alt="logo" src="img/logo-white.png">';
+echo '</a>';
+echo '<!-- logo end -->';
+echo '';
+echo '<!-- mainmenu start -->';
+echo '<div class="white menu-init" id="main-menu">';
+echo '<nav id="menu-center">';
+echo '<ul>';
+echo '<li><a  href="index.php">Home</a></li>';
+echo '<li><a href="#">Gallery <i class="fa fa-angle-down"></i></a> <ul>';
+echo '<li><a href="alltours.php">All Tours</a></li>';
+echo '<li><a href="ourgallery.php">Our Gallery</a></li>';
+echo '</ul>';
+echo '</li>';
+echo '<li><a  href="#">Destination <i class="fa fa-angle-down"></i></a>';
+echo '<ul>';
+echo '<li><a href="island.php">Island</a></li>';
+echo '<li><a href="falls.php">Falls</a></li>';
+echo '<li><a href="cave.php">Cave</a></li>';
+echo '<li><a href="beach.php">Beach</a></li>';
+echo '<li><a href="cathedral.php">Cathedral</a></li>';
+echo '<li><a href="mountain.php">Mountain</a></li>';
+echo '<li><a href="resort.php">Resort</a></li>';
+echo '</ul>';
+echo '</li>';
+echo '<li><a  href="#">Blog <i class="fa fa-angle-down"></i></a>';
+echo '<ul>';
+echo '<li><a href="blog.php">Blog Post</a></li>';
+echo '</ul>';
+echo '</li>';
+echo '<li><a  href="contact.php">Contact</a></li>';
+echo '<li><a href="#">About <i class="fa fa-angle-down"></i></a>';
+echo '<ul>';
+echo '<li><a href="about.php">About Us</a></li>';
+echo '</li>';
+echo '</ul>';
+echo '</nav>';
+echo '</div>';
+echo '<!-- mainmenu end -->';
+echo '';
+echo '</div>';
+echo '</div>';
+echo '<!-- container -->';
+echo '</div>';
+echo '<!-- nav end -->';
+echo '</header>';
+echo '';
+echo '<!-- home -->';
+echo '<div id="home">';
+echo '<!-- revolution slider -->';
+echo '<section class="no-top no-bottom" aria-label="section-slider">';
+echo '<div class="fullwidthbanner-container">';
+echo '<div id="revolution-slider-half">';
+echo '<ul>';
+echo '';
+echo '<li data-transition="parallaxtobottom" data-slotamount="10" data-masterspeed="1200" data-delay="5000">';
+echo '<!--  BACKGROUND IMAGE -->';
+echo '<img src="img/images-slider/img-slide-1.jpeg" alt="" data-start="0" data-bgposition="center center" data-kenburns="on" data-duration="10000" data-ease="Linear.easeNone" data-bgfit="120" data-bgfitend="100" data-bgpositionend="center center"/>';
+echo '<div class="tp-caption slide-big-heading sft"';
+echo 'data-x="center"';
+echo 'data-y="300"';
+echo 'data-speed="800"';
+echo 'data-start="400"';
+echo 'data-easing="easeInOutExpo"';
+echo 'data-endspeed="450">';
+echo 'Amazing Diversity on Travel';
+echo '</div>';
+echo '';
+echo '<div class="tp-caption slide-sub-heading sft"';
+echo 'data-x="center"';
+echo 'data-y="370"';
+echo 'data-speed="1000"';
+echo 'data-start="800"';
+echo 'data-easing="easeOutExpo"';
+echo 'data-endspeed="400">';
+echo 'Time to unwind';
+echo '</div>';
+echo '';
+echo '<div class="tp-caption sfb"';
+echo 'data-x="center"';
+echo 'data-y="410"';
+echo 'data-speed="400"';
+echo 'data-start="800"';
+echo 'data-easing="easeInOutExpo">';
+echo '<div class="btn-slider"><span class="shine"></span><a href="#" >More Detail</a></div>';
+echo '</div>';
+echo '';
+echo '</li>';
+echo '';
+echo '<li data-transition="parallaxtobottom" data-slotamount="10" data-masterspeed="1200" data-delay="5000">';
+echo '<!--  BACKGROUND IMAGE -->';
+echo '<img src="img/images-slider/img-slide-2.jpeg" alt="" data-start="0" data-bgposition="center center" data-kenburns="on" data-duration="10000" data-ease="Linear.easeNone" data-bgfit="120" data-bgfitend="100" data-bgpositionend="center center" />';
+echo '<div class="tp-caption slide-big-heading sft"';
+echo 'data-x="center"';
+echo 'data-y="300"';
+echo 'data-speed="800"';
+echo 'data-start="400"';
+echo 'data-easing="easeInOutExpo"';
+echo 'data-endspeed="450">';
+echo 'Perfect Place on Vacation';
+echo '</div>';
+echo '';
+echo '<div class="tp-caption slide-sub-heading sft"';
+echo 'data-x="center"';
+echo 'data-y="370"';
+echo 'data-speed="1000"';
+echo 'data-start="800"';
+echo 'data-easing="easeOutExpo"';
+echo 'data-endspeed="400">';
+echo 'Marinduque';
+echo '</div>';
+echo '';
+echo '<div class="tp-caption sfb"';
+echo 'data-x="center"';
+echo 'data-y="410"';
+echo 'data-speed="400"';
+echo 'data-start="800"';
+echo 'data-easing="easeInOutExpo">';
+echo '<div class="btn-slider"><span class="shine"></span><a href="#" >More Detail</a></div>';
+echo '</div>';
+echo '';
+echo '</li>';
+echo '';
+echo '<li data-transition="parallaxtobottom" data-slotamount="10" data-masterspeed="1200" data-delay="5000">';
+echo '<!--  BACKGROUND IMAGE -->';
+echo '<img src="img/images-slider/img-slide-3.jpeg" alt="" data-start="0" data-bgposition="center center" data-kenburns="on" data-duration="10000" data-ease="Linear.easeNone" data-bgfit="120" data-bgfitend="100" data-bgpositionend="center center" />';
+echo '<div class="tp-caption slide-big-heading sft"';
+echo 'data-x="center"';
+echo 'data-y="300"';
+echo 'data-speed="800"';
+echo 'data-start="400"';
+echo 'data-easing="easeInOutExpo"';
+echo 'data-endspeed="450">';
+echo 'It is More Fun With You';
+echo '</div>';
+echo '';
+echo '<div class="tp-caption slide-sub-heading sft"';
+echo 'data-x="center"';
+echo 'data-y="370"';
+echo 'data-speed="1000"';
+echo 'data-start="800"';
+echo 'data-easing="easeOutExpo"';
+echo 'data-endspeed="400">';
+echo 'Discover hidden places in Marinduque';
+echo '</div>';
+echo '';
+echo '<div class="tp-caption sfb"';
+echo 'data-x="center"';
+echo 'data-y="410"';
+echo 'data-speed="400"';
+echo 'data-start="800"';
+echo 'data-easing="easeInOutExpo">';
+echo '<div class="btn-slider"><span class="shine"></span><a href="#" >More Detail</a></div>';
+echo '</div>';
+echo '';
+echo '</li>';
+echo '';
+echo '</ul>';
+echo '<div class="tp-bannertimer hide"></div>';
+echo '</div>';
+echo '</div>';
+echo '</section>';
+echo '';
+echo '<!-- milestone end -->';
+echo '';
+echo '<!-- section search -->';
+echo '<section class="frm-search">';
+echo '<div class="container-fluid m-5-hor m-5-hor-dev">';
+echo '<div class="row">';
+echo '';
+echo '<h2 class="big-heading">Find your adventure with us</h2>';
+echo '';
+echo '<form class="form-inline" id="sform">';
+echo '<div class="form-group search-icn">';
+echo '<label for="key">Keyword</label>';
+echo '<input type="text" class="form-control" required="" id="key">';
+echo '</div>';
+echo '<div class="form-group">';
+echo '<label>Select your trip</label>';
+echo '<select name="select-trip" required="">';
+echo '<option value="">Any</option>';
+echo '<option value="#">Nature Travel</option>';
+echo '<option value="#">Cultural Travel</option>';
+echo '<option value="#">Family Travel</option>';
+echo '<option value="#">Holiday Travel</option>';
+echo '<option value="#">Luxury Travel</option>';
+echo '<option value="#">Wild &amp; Adventure Travel</option>';
+echo '</select>';
+echo '</div>';
+echo '<div class="form-group">';
+echo '<label>Destination</label>';
+echo '<select name="destination" required="">';
+echo '<option value="">Any</option>';
+echo '<option value="#">Island</option>';
+echo '<option value="#">Falls</option>';
+echo '<option value="#">Beach</option>';
+echo '<option value="#">Cave</option>';
+echo '<option value="#">Resort</option>';
+echo '<option value="#">Cathedral</option>';
+echo '<option value="#">Mountain</option>';
+echo '</select>';
+echo '</div>';
+echo '</div>';
+echo '<input class="btn-frm-search" value="FIND NOW" type="submit">';
+echo '</form>';
+echo '';
+echo '</div>';
+echo '</div>';
+echo '</section>';
+echo '<!-- section search end -->';
+echo '';
+echo '<!--  top rated -->';
+echo '<section aria-label="top-rated">';
+echo '<div class="container-fluid m-5-hor">';
+echo '<div class="row">';
+echo '<div class="col-md-6 sp-padding ">';
+echo '<img alt="top-rated" class="img-responsive" src="img/img-top-rated.jpeg">';
+echo '</div>';
+echo '<div class="col-md-6 p-30">';
+echo '<h3 class="big-heading">Marinduque</h3>';
+echo '<span class="devider-left"></span>';
+echo '<p>Marinduque is a heart-shaped island province in the Mimaropa region that nestles between Tayabas Bay and the Sibuyan Sea. It is situated at the heart of the Philippines and is considered the archipelago’s geographic center. During the Lenten season, the island gets a bit crowded for the annual Moriones Festival, one of the oldest religious festivals in the Philippines.</p>';
+echo '</div>';
+echo '</div>';
+echo '</section>';
+echo '';
+echo '<!--  gallery home -->';
+echo '<section aria-label="gallery">';
+echo '<div class="container-fluid m-5-hor">';
+echo '<div class="row">';
+echo '';
+echo '</div>';
+echo '</div>';
+echo '';
+echo '<div class="onStep" data-animation="fadeInUp" data-time="0">';
+echo '<div id="owl-gal" class="owl-carousel">';
+echo '';
+echo '<div class="item">';
+echo '<div class="gal-home">';
+echo '<div class="hovereffect">';
+echo '<img alt="imageportofolio" class="img-responsive" src="img/index gallery/spoctoy.jpeg">';
+echo '</div>';
+echo '<div class="gal-home-content">';
+echo '<div class="row">';
+echo '<div class="col-md-9">';
+echo '<h4>Poctoy White Beach</h4>';
+echo '<div class="star-content">';
+echo '<i class="fa fa-star" aria-hidden="true"></i>';
+echo '<i class="fa fa-star" aria-hidden="true"></i>';
+echo '<i class="fa fa-star" aria-hidden="true"></i>';
+echo '<i class="fa fa-star" aria-hidden="true"></i>';
+echo '<i class="fa fa-star-o" aria-hidden="true"></i>';
+echo '</div>';
+echo '<div class="review-cont big-heading">412 Reviews</div>';
+echo '</div>';
+echo '</div>';
+echo '</div>';
+echo '</a>';
+echo '</div>';
+echo '</div>';
+echo '';
+echo '<div class="item">';
+echo '<div class="gal-home">';
+echo '<div class="hovereffect">';
+echo '<img alt="imageportofolio" class="img-responsive" src="img/index gallery/spalad.jpeg">';
+echo '</div>';
+echo '<div class="gal-home-content">';
+echo '<div class="row">';
+echo '<div class="col-md-9">';
+echo '<h4>Palad Sandbar</h4>';
+echo '<div class="star-content">';
+echo '<i class="fa fa-star" aria-hidden="true"></i>';
+echo '<i class="fa fa-star" aria-hidden="true"></i>';
+echo '<i class="fa fa-star" aria-hidden="true"></i>';
+echo '<i class="fa fa-star" aria-hidden="true"></i>';
+echo '<i class="fa fa-star-o" aria-hidden="true"></i>';
+echo '</div>';
+echo '<div class="review-cont big-heading">328 Reviews</div>';
+echo '</div>';
+echo '</div>';
+echo '</div>';
+echo '</div>';
+echo '</div>';
+echo '';
+echo '<div class="item">';
+echo '<div class="gal-home">';
+echo '<div class="hovereffect">';
+echo '<img alt="imageportofolio" class="img-responsive" src="img/index gallery/smalindig.jpeg">';
+echo '</div>';
+echo '<div class="gal-home-content">';
+echo '<div class="row">';
+echo '<div class="col-md-9">';
+echo '<h4>Mount Malindig</h4>';
+echo '<div class="star-content">';
+echo '<i class="fa fa-star" aria-hidden="true"></i>';
+echo '<i class="fa fa-star" aria-hidden="true"></i>';
+echo '<i class="fa fa-star" aria-hidden="true"></i>';
+echo '<i class="fa fa-star" aria-hidden="true"></i>';
+echo '<i class="fa fa-star-o" aria-hidden="true"></i>';
+echo '</div>';
+echo '<div class="review-cont big-heading">245 Reviews</div>';
+echo '</div>';
+echo '</div>';
+echo '</div>';
+echo '</a>';
+echo '</div>';
+echo '</div>';
+echo '';
+echo '<div class="item">';
+echo '<div class="gal-home">';
+echo '<div class="hovereffect">';
+echo '<img alt="imageportofolio" class="img-responsive" src="img/index gallery/sboac.jpeg">';
+echo '</div>';
+echo '<div class="gal-home-content">';
+echo '<div class="row">';
+echo '<div class="col-md-9">';
+echo '<h4>Boac Cathedral</h4>';
+echo '<div class="star-content">';
+echo '<i class="fa fa-star" aria-hidden="true"></i>';
+echo '<i class="fa fa-star" aria-hidden="true"></i>';
+echo '<i class="fa fa-star" aria-hidden="true"></i>';
+echo '<i class="fa fa-star" aria-hidden="true"></i>';
+echo '<i class="fa fa-star-o" aria-hidden="true"></i>';
+echo '</div>';
+echo '<div class="review-cont big-heading">760 Reviews</div>';
+echo '</div>';
+echo '</div>';
+echo '</div>';
+echo '</div>';
+echo '</div>';
+echo '';
+echo '<div class="item">';
+echo '<div class="gal-home">';
+echo '<div class="hovereffect">';
+echo '<img alt="imageportofolio" class="img-responsive" src="img/index gallery/smaniwaya.jpeg">';
+echo '</div>';
+echo '<div class="gal-home-content">';
+echo '<div class="row">';
+echo '<div class="col-md-9">';
+echo '<h4>Maniwaya Island</h4>';
+echo '<div class="star-content">';
+echo '<i class="fa fa-star" aria-hidden="true"></i>';
+echo '<i class="fa fa-star" aria-hidden="true"></i>';
+echo '<i class="fa fa-star" aria-hidden="true"></i>';
+echo '<i class="fa fa-star" aria-hidden="true"></i>';
+echo '<i class="fa fa-star-o" aria-hidden="true"></i>';
+echo '</div>';
+echo '<div class="review-cont big-heading">654 Reviews</div>';
+echo '</div>';
+echo '</div>';
+echo '</div>';
+echo '</div>';
+echo '</div>';
+echo '';
+echo '<div class="item">';
+echo '<div class="gal-home">';
+echo '<div class="hovereffect">';
+echo '<img alt="imageportofolio" class="img-responsive" src="img/index gallery/sbagumbungan.jpeg">';
+echo '</div>';
+echo '<div class="gal-home-content">';
+echo '<div class="row">';
+echo '<div class="col-md-9">';
+echo '<h4>Bagumbungan Cave</h4>';
+echo '<div class="star-content">';
+echo '<i class="fa fa-star" aria-hidden="true"></i>';
+echo '<i class="fa fa-star" aria-hidden="true"></i>';
+echo '<i class="fa fa-star" aria-hidden="true"></i>';
+echo '<i class="fa fa-star" aria-hidden="true"></i>';
+echo '<i class="fa fa-star-o" aria-hidden="true"></i>';
+echo '</div>';
+echo '<div class="review-cont big-heading">103 Reviews</div>';
+echo '</div>';
+echo '</div>';
+echo '</div>';
+echo '</div>';
+echo '</div>';
+echo '';
+echo '</div>';
+echo '</div>';
+echo '</section>';
+echo '<!--  gallery home end -->';
+echo '';
+echo '<!-- footer -->';
+echo '<footer class="main text-center">';
+echo '<div class="container-fluid m-5-hor">';
+echo '<div class="row">';
+echo '';
+echo '<div class="onStep" data-animation="fadeInUp" data-time="300">';
+echo '<div class="col-md-4 text-left">';
+echo '<span><a href="#">Email: plesiretravel@gmail.com</a></span>';
+echo '<span>Copyright - 2022 Plesire Travel All Right Reserved</span>';
+echo '</div>';
+echo '';
+echo '<div class="col-md-4">';
+echo '<span class="logo">';
+echo '<img alt="logo" src="img/logo-white.png">';
+echo '</span>';
+echo '</div>';
+echo '';
+echo '<div class="col-md-4 text-right">';
+echo '<span>Dili, Gasan, Marinduque</span>';
+echo '<span>Phone: +63927 6073 941</span>';
+echo '</div>';
+echo '</div>';
+echo '';
+echo '';
+echo '</div>';
+echo '</div>';
+echo '</footer>';
+echo '<!-- footer end -->';
+echo '';
+echo '';
+echo '<!-- ScrolltoTop -->';
+echo '<div id="totop" class="init">';
+echo '<span class="ti-angle-up"></span>';
+echo '</div>';
+echo '';
+echo '<!-- modal login -->';
+echo '<div id="fLogin" class="modal fade">';
+echo '<div class="modal-dialog modal-login">';
+echo '<div class="modal-content">';
+echo '<div class="modal-header">';
+echo '<h4 class="modal-title">Member Log In</h4>';
+echo '<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>';
+echo '</div>';
+echo '<div class="modal-body">';
+echo '<form action="#" method="post">';
+echo '<div class="form-group">';
+echo '<label>User Name</label>';
+echo '<input type="text" class="form-control" required="required">';
+echo '</div>';
+echo '<div class="form-group">';
+echo '<label>Password</label>';
+echo '<input type="password" class="form-control" required="required">';
+echo '</div>';
+echo '<div class="form-group">';
+echo '<input type="submit" class="btn btn-primary btn-block btn-lg" value="Log In">';
+echo '</div>';
+echo '</form>';
+echo '';
+echo '</div>';
+echo '<div class="modal-footer">';
+echo '<a href="#">or Sign Up</a>';
+echo '</div>';
+echo '</div>';
+echo '</div>';
+echo '</div>';
+echo '<!-- modal login end -->';
+echo '';
+echo '<!-- modal registration -->';
+echo '<div id="fsignUp" class="modal fade">';
+echo '<div class="modal-dialog modal-login">';
+echo '<div class="modal-content">';
+echo '<div class="modal-header">';
+echo '<h4 class="modal-title">Member Registration</h4>';
+echo '<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>';
+echo '</div>';
+echo '<div class="modal-body">';
+echo '<form>';
+echo '<div class="form-group">';
+echo '<label>First Name</label>';
+echo '<input type="text" name="firstname" class="form-control" required="required">';
+echo '</div>';
+echo '<div class="form-group">';
+echo '<label>Last Name</label>';
+echo '<input type="text" name="lastname" class="form-control" required="required">';
+echo '</div>';
+echo '<div class="form-group">';
+echo '<label>Email Address</label>';
+echo '<input type="email" name="email" class="form-control" required="required">';
+echo '</div>';
+echo '<div class="form-group">';
+echo '<label>Username</label>';
+echo '<input type="text" name="username" class="form-control" required="required">';
+echo '</div>';
+echo '<div class="form-group">';
+echo '<label>Password</label>';
+echo '<input type="password" name="password" class="form-control" required="required">';
+echo '</div>';
+echo '<div class="form-group">';
+echo '<label><input type="checkbox" name="terms"> I agree with the <a href="#">Terms and Conditions</a>.</label>';
+echo '</div>';
+echo '<div class="form-group"><input type="submit" value="Sign up" class="btn btn-primary btn-block btn-lg"></div>';
+echo '<div class="clearfix"></div>';
+echo '</form>';
+echo '';
+echo '</div>';
+echo '<div class="modal-footer">';
+echo '<a href="#">or Log In</a>';
+echo '</div>';
+echo '</div>';
+echo '</div>';
+echo '</div>';
+echo '<!-- modal registration end -->';
+echo '';
+echo '';
+echo '</div>';
+?>
     <!-- content wraper end --> 
     
     <!-- plugin JS -->

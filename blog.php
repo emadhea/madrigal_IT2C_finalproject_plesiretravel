@@ -32,415 +32,417 @@
   
   <body>
   
-    <!-- preloader -->
-    <div class="bg-preloader-white"></div>
-    <div class="preloader-white">
-      <div class="mainpreloader">
-        <span></span>
-      </div>
-    </div>
-    <!-- preloader end -->
-    
-    <!-- content wraper -->
-   <div class="content-wrapper">
-    
-   <header class="init">
-    
-    <!-- subnav -->
-    <div class="container-fluid m-5-hor">
-    <div class="row">
-        <div class="subnav">
-
-         <div class="col-md-6">
-          <div class="left">
-            <div class="social-icons-subnav hidden-sm hidden-xs">
-                <div>Call Us : +63927 6073 941</div>
-            </div>
-          </div>
-         </div>
-         
-         <div class="col-md-6">
-          <div class="right">
-            <div id="sub-icon" class="social-icons-subnav">
-                <a href="#"><span class="ti-facebook"></span></a>
-                <a href="#"><span class="ti-dribbble"></span></a>
-                <a href="#"><span class="ti-twitter"></span></a>
-                <a href="#"><span class="ti-instagram"></span></a>
-                <a href="#"><span class="ti-linkedin"></span></a>
-            </div>
-            <div class="social-icons-subnav">
-              <a data-toggle="modal" data-target="#fLogin"><span class="ti-lock"></span> Login</a>
-            </div>    
-            <div class="social-icons-subnav hidden-sm hidden-xs">
-              <a data-toggle="modal" data-target="#fsignUp"><span class="ti-user"></span> Sign up</a>
-            </div>
-          </div>
-         </div>
-        
-        </div>
-    </div>
-    </div>
-    <!-- subnav end -->
-    
-      <!-- nav -->
-      <div class="navbar-default-white navbar-fixed-top">
-        <div class="container-fluid m-5-hor">
-        <div class="row">
-        
-           <!-- menu mobile display -->
-           <button class="navbar-toggle" data-target=".navbar-collapse" data-toggle="collapse">
-           <span class="icon icon-bar"></span> 
-           <span class="icon icon-bar"></span> 
-           <span class="icon icon-bar"></span></button> 
-          
-          <!-- logo --> 
-          <a class="navbar-brand white" href="index.php">
-          <img class="white" alt="logo" src="img/logo.png">
-          <img class="black" alt="logo" src="img/logo-white.png">
-          </a> 
-          <!-- logo end -->
-          
-          <!-- mainmenu start -->
-          <div class="white menu-init" id="main-menu">
-            <nav id="menu-center">
-              <ul>
-                <li><a  href="index.php">Home</a></li>
-                <li><a href="#">Gallery <i class="fa fa-angle-down"></i></a> <ul>
-                    <li><a href="alltours.php">All Tours</a></li>
-                    <li><a href="ourgallery.php">Our Gallery</a></li>
-                  </ul>
-                </li>
-                <li><a  href="#">Destination <i class="fa fa-angle-down"></i></a>
-                <ul>
-                    <li><a href="island.php">Island</a></li>
-                    <li><a href="falls.php">Falls</a></li>
-                    <li><a href="cave.php">Cave</a></li>
-                    <li><a href="beach.php">Beach</a></li>
-                    <li><a href="cathedral.php">Cathedral</a></li>
-                    <li><a href="mountain.php">Mountain</a></li>
-                    <li><a href="resort.php">Resort</a></li>
-                    </ul>
-                </li>
-                <li><a  href="#">Blog <i class="fa fa-angle-down"></i></a>
-                  <ul>
-                    <li><a href="blog.php">Blog Post</a></li>
-                  </ul>
-                </li>
-                <li><a  href="contact.php">Contact</a></li>
-                <li><a href="#">About <i class="fa fa-angle-down"></i></a>
-                <ul>
-                    <li><a href="about.php">About Us</a></li>
-                </li>
-              </ul>
-            </nav>
-          </div>
-          <!-- mainmenu end -->
-          
-        </div>
-        </div>
-        <!-- container -->
-      </div>
-      <!-- nav end -->
-      </header>
-      
-      <!-- subheader -->
-      <section id="subheader">
-        <div class="container-fluid m-5-hor">
-          <div class="row">
-            <div class="col-md-12">
-              <h1 class="big-heading">
-                Blog
-              </h1>
-              <p>Discover different post of others</p>
-            </div>
-        </div>
-       </div>
-      </section>
-      <!-- subheader end -->
-      
-      <!-- section -->
-      <section aria-label="section-blog" id="content">
-        <div class="container-fluid m-5-hor">
-          <div class="row">
-          
-            <!-- left content -->
-            <div class="col-md-8">
-              
-                          <div class="blog-simple">
-							<a href="#"><img class="img-responsive" src="img/blog/1.jpeg" alt=""></a>
-							<div class="blog-text">
-                        <span class="user-post"><i class="ti-user"></i>Ema Madrigal</span>
-									<span class="date-post"><i class="ti-calendar"></i>April 28, 2022</span>
-									<span class="comment"><a href=""><i class="ti-comment"></i>5</a></span>
-									<p>Beachin'... ready na ko mangitim >.<</p>
-									<a class="btn-blog" href="blog-post1.php">More Detail</a>
-							</div> 
-						</div>
-
-						<div class="blog-simple">
-							<a href="#"><img class="img-responsive" src="img/blog/2.jpeg" alt=""></a>
-							<div class="blog-text">
-									<span class="user-post"><i class="ti-user"></i>Ashley Saludo</span>
-									<span class="date-post"><i class="ti-calendar"></i>Dec. 15, 2021</span>
-									<span class="comment"><a href=""><i class="ti-comment"></i>6</a></span>
-									<p>Long time no sea <3</p>
-									<a class="btn-blog" href="blog-post2.php">More Detail</a>
-							</div> 
-						</div>
-
-						<div class="blog-simple">
-							<a href="#"><img class="img-responsive" src="img/blog/3.jpeg" alt=""></a>
-							<div class="blog-text">
-									<span class="user-post"><i class="ti-user"></i>Justine Solito</span>
-									<span class="date-post"><i class="ti-calendar"></i>Feb. 23, 2022</span>
-									<span class="comment"><a href=""><i class="ti-comment"></i>3</a></span>
-									<p>Ang hot!! ng panahon</p>
-									<a class="btn-blog" href="blog-post3.php">More Detail</a>
-							</div> 
-						</div>
-                        
-    <!-- Smaller pagination -->
-    <ul class="pagination">
-        <li><a href="#">&laquo;</a></li>
-        <li><a>1</a></li>
-        <li><a>2</a></li>
-        <li><a>3</a></li>
-        <li><a>4</a></li>
-        <li><a>5</a></li>
-        <li><a>&raquo;</a></li>
-    </ul>            
-               
-            </div>
-            <!-- left content end -->
-            
-            <!-- right content -->
-            <div class="col-md-4">
-              <aside>
-              
-                <!-- widget -->
-              <div class="widget">
-              <form role="search">
-                <div class="input-group">
-						<input type="text" id="search1" class="form-control" placeholder="search">
-						<div class="input-group-btn">
-							<button type="submit"><span class="icon"><i class="fa fa-search"></i></span></button>
-						</div>
-				</div>
-                </form>
-                </div>
-                <!-- widget end -->
-                
-                <!-- widget -->
-                <div class="widget">
-                  <h5>
-                    Recent posts
-                  </h5>
-
-                  <div class="devider-widget">
-                  </div>
-
-                  <div class="recent">
-                    <div>
-                      <img alt="#" class="pull-left" src="img/blog/recent/1.jpeg">
-                      <h6>
-                        <a href="#">Justine Solito</a>
-                      </h6>
-                      <p>
-                        All i need is a good dose of vitamin sea
-                      </p>
-                    </div>
-
-                    <div>
-                      <a href="#"><img alt="#" class="pull-left" src="img/blog/recent/2.jpeg"></a>
-                      <h6>
-                        <a href="#">Juan Cruz</a>
-                      </h6>
-
-                      <p>
-                        The ocean made me salty
-                      </p>
-                    </div>
-
-                    <div>
-                      <a href="#"><img alt="#" class="pull-left" src="img/blog/recent/3.jpeg"></a>
-                      <h6>
-                        <a href="#">Justine Solito</a>
-                      </h6>
-
-                      <p>
-                        No one likes shady beaches
-                      </p>
-                    </div>
-                  </div>
-                </div>
-                <!-- widget end -->
-                
-                <!-- widget -->
-                <div class="widget">
-                  <h5>
-                    Tags
-                  </h5>
-
-                  <div class="devider-widget">
-                  </div>
-
-                  <div class="tags">
-                    <div>
-                      <a>Photography</a>
-                    </div>
-
-                    <div>
-                      <a>Trends</a>
-                    </div>
-
-                    <div>
-                      <a>Beach</a>
-                    </div>
-
-                    <div>
-                      <a>Personal</a>
-                    </div>
-
-                    <div>
-                      <a>Resort</a>
-                    </div>
-
-                    <div>
-                      <a>Sea</a>
-                    </div>
-
-                    <div>
-                      <a>Wave</a>
-                    </div>
-                  </div>
-                </div>
-                <!-- widget end -->
-                
-              </aside>
-            </div>
-            <!-- right content end -->
-               
-          </div>
-        </div>
-      </section>
-      <!-- section end -->
-      
-       
-      <!-- footer -->
-      <footer class="main text-center">
-        <div class="container-fluid m-5-hor">
-          <div class="row">
-          
-          <div class="onStep" data-animation="fadeInUp" data-time="300">
-          <div class="col-md-4 text-left">
-          <span><a href="#">Email: plesiretravel@gmail.com</a></span>
-          <span>Copyright - 2022 Plesire Travel All Right Reserved</span>
-          </div>
-          
-          <div class="col-md-4">
-                <span class="logo">
-                <img alt="logo" src="img/logo-white.png">
-                </span>
-            </div>
-            
-            <div class="col-md-4 text-right">
-              <span>Dili, Gasan, Marinduque</span>
-              <span>Phone: +63927 6073 941</span>
-            </div>
-            </div>
-
-            
-          </div>
-        </div>
-      </footer>
-      <!-- footer end -->
-      
-      
-      <!-- ScrolltoTop -->
-      <div id="totop" class="init">
-        <span class="ti-angle-up"></span>
-      </div>  
-
-              <!-- modal login -->
-              <div id="fLogin" class="modal fade">
-                <div class="modal-dialog modal-login">
-                  <div class="modal-content">
-                    <div class="modal-header">      
-                      <h4 class="modal-title">Member Log In</h4>
-                      <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
-                    </div>
-                    <div class="modal-body">
-                      <form action="#" method="post">
-                        <div class="form-group">
-                          <label>User Name</label>
-                          <input type="text" class="form-control" required="required">
-                        </div>
-                        <div class="form-group">
-                          <label>Password</label>
-                          <input type="password" class="form-control" required="required">         
-                        </div>
-                        <div class="form-group">
-                          <input type="submit" class="btn btn-primary btn-block btn-lg" value="Log In">
-                        </div>
-                      </form>       
-                      
-                    </div>
-                    <div class="modal-footer">
-                      <a href="#">or Sign Up</a>
-                    </div>
-                  </div>
-                </div>
-              </div>
-              <!-- modal login end -->
-
-              <!-- modal registration -->
-              <div id="fsignUp" class="modal fade">
-                <div class="modal-dialog modal-login">
-                  <div class="modal-content">
-                    <div class="modal-header">      
-                      <h4 class="modal-title">Member Registration</h4>
-                      <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
-                    </div>
-                    <div class="modal-body">
-                      <form>
-                        <div class="form-group">
-                        <label>First Name</label>
-                        <input type="text" name="firstname" class="form-control" required="required">
-                        </div>
-                        <div class="form-group">
-                        <label>Last Name</label>
-                        <input type="text" name="lastname" class="form-control" required="required">
-                        </div>
-                        <div class="form-group">
-                        <label>Email Address</label>
-                        <input type="email" name="email" class="form-control" required="required">
-                        </div>
-                        <div class="form-group">
-                        <label>Username</label>
-                        <input type="text" name="username" class="form-control" required="required">
-                        </div>
-                        <div class="form-group">
-                        <label>Password</label>
-                        <input type="password" name="password" class="form-control" required="required">
-                        </div>
-                        <div class="form-group">
-                        <label><input type="checkbox" name="terms"> I agree with the <a href="#">Terms and Conditions</a>.</label>
-                        </div>
-                        <div class="form-group"><input type="submit" value="Sign up" class="btn btn-primary btn-block btn-lg"></div>
-                        <div class="clearfix"></div>
-                      </form>       
-                      
-                    </div>
-                    <div class="modal-footer">
-                      <a href="#">or Log In</a>
-                    </div>
-                  </div>
-                </div>
-              </div>
-              <!-- modal registration end -->      
-
-     
-    </div>
+    <?php
+echo '<!-- preloader -->';
+echo '<div class="bg-preloader-white"></div>';
+echo '<div class="preloader-white">';
+echo '<div class="mainpreloader">';
+echo '<span></span>';
+echo '</div>';
+echo '</div>';
+echo '<!-- preloader end -->';
+echo '';
+echo '<!-- content wraper -->';
+echo '<div class="content-wrapper">';
+echo '';
+echo '<header class="init">';
+echo '';
+echo '<!-- subnav -->';
+echo '<div class="container-fluid m-5-hor">';
+echo '<div class="row">';
+echo '<div class="subnav">';
+echo '';
+echo '<div class="col-md-6">';
+echo '<div class="left">';
+echo '<div class="social-icons-subnav hidden-sm hidden-xs">';
+echo '<div>Call Us : +63927 6073 941</div>';
+echo '</div>';
+echo '</div>';
+echo '</div>';
+echo '';
+echo '<div class="col-md-6">';
+echo '<div class="right">';
+echo '<div id="sub-icon" class="social-icons-subnav">';
+echo '<a href="#"><span class="ti-facebook"></span></a>';
+echo '<a href="#"><span class="ti-dribbble"></span></a>';
+echo '<a href="#"><span class="ti-twitter"></span></a>';
+echo '<a href="#"><span class="ti-instagram"></span></a>';
+echo '<a href="#"><span class="ti-linkedin"></span></a>';
+echo '</div>';
+echo '<div class="social-icons-subnav">';
+echo '<a data-toggle="modal" data-target="#fLogin"><span class="ti-lock"></span> Login</a>';
+echo '</div>';
+echo '<div class="social-icons-subnav hidden-sm hidden-xs">';
+echo '<a data-toggle="modal" data-target="#fsignUp"><span class="ti-user"></span> Sign up</a>';
+echo '</div>';
+echo '</div>';
+echo '</div>';
+echo '';
+echo '</div>';
+echo '</div>';
+echo '</div>';
+echo '<!-- subnav end -->';
+echo '';
+echo '<!-- nav -->';
+echo '<div class="navbar-default-white navbar-fixed-top">';
+echo '<div class="container-fluid m-5-hor">';
+echo '<div class="row">';
+echo '';
+echo '<!-- menu mobile display -->';
+echo '<button class="navbar-toggle" data-target=".navbar-collapse" data-toggle="collapse">';
+echo '<span class="icon icon-bar"></span>';
+echo '<span class="icon icon-bar"></span>';
+echo '<span class="icon icon-bar"></span></button>';
+echo '';
+echo '<!-- logo -->';
+echo '<a class="navbar-brand white" href="index.php">';
+echo '<img class="white" alt="logo" src="img/logo.png">';
+echo '<img class="black" alt="logo" src="img/logo-white.png">';
+echo '</a>';
+echo '<!-- logo end -->';
+echo '';
+echo '<!-- mainmenu start -->';
+echo '<div class="white menu-init" id="main-menu">';
+echo '<nav id="menu-center">';
+echo '<ul>';
+echo '<li><a  href="index.php">Home</a></li>';
+echo '<li><a href="#">Gallery <i class="fa fa-angle-down"></i></a> <ul>';
+echo '<li><a href="alltours.php">All Tours</a></li>';
+echo '<li><a href="ourgallery.php">Our Gallery</a></li>';
+echo '</ul>';
+echo '</li>';
+echo '<li><a  href="#">Destination <i class="fa fa-angle-down"></i></a>';
+echo '<ul>';
+echo '<li><a href="island.php">Island</a></li>';
+echo '<li><a href="falls.php">Falls</a></li>';
+echo '<li><a href="cave.php">Cave</a></li>';
+echo '<li><a href="beach.php">Beach</a></li>';
+echo '<li><a href="cathedral.php">Cathedral</a></li>';
+echo '<li><a href="mountain.php">Mountain</a></li>';
+echo '<li><a href="resort.php">Resort</a></li>';
+echo '</ul>';
+echo '</li>';
+echo '<li><a  href="#">Blog <i class="fa fa-angle-down"></i></a>';
+echo '<ul>';
+echo '<li><a href="blog.php">Blog Post</a></li>';
+echo '</ul>';
+echo '</li>';
+echo '<li><a  href="contact.php">Contact</a></li>';
+echo '<li><a href="#">About <i class="fa fa-angle-down"></i></a>';
+echo '<ul>';
+echo '<li><a href="about.php">About Us</a></li>';
+echo '</li>';
+echo '</ul>';
+echo '</nav>';
+echo '</div>';
+echo '<!-- mainmenu end -->';
+echo '';
+echo '</div>';
+echo '</div>';
+echo '<!-- container -->';
+echo '</div>';
+echo '<!-- nav end -->';
+echo '</header>';
+echo '';
+echo '<!-- subheader -->';
+echo '<section id="subheader">';
+echo '<div class="container-fluid m-5-hor">';
+echo '<div class="row">';
+echo '<div class="col-md-12">';
+echo '<h1 class="big-heading">';
+echo 'Blog';
+echo '</h1>';
+echo '<p>Discover different post of others</p>';
+echo '</div>';
+echo '</div>';
+echo '</div>';
+echo '</section>';
+echo '<!-- subheader end -->';
+echo '';
+echo '<!-- section -->';
+echo '<section aria-label="section-blog" id="content">';
+echo '<div class="container-fluid m-5-hor">';
+echo '<div class="row">';
+echo '';
+echo '<!-- left content -->';
+echo '<div class="col-md-8">';
+echo '';
+echo '<div class="blog-simple">';
+echo '<a href="#"><img class="img-responsive" src="img/blog/1.jpeg" alt=""></a>';
+echo '<div class="blog-text">';
+echo '<span class="user-post"><i class="ti-user"></i>Ema Madrigal</span>';
+echo '<span class="date-post"><i class="ti-calendar"></i>April 28, 2022</span>';
+echo '<span class="comment"><a href=""><i class="ti-comment"></i>5</a></span>';
+echo '<p>Beachin... ready na ko mangitim >.<</p>';
+echo '<a class="btn-blog" href="blog-post1.php">More Detail</a>';
+echo '</div>';
+echo '</div>';
+echo '';
+echo '<div class="blog-simple">';
+echo '<a href="#"><img class="img-responsive" src="img/blog/2.jpeg" alt=""></a>';
+echo '<div class="blog-text">';
+echo '<span class="user-post"><i class="ti-user"></i>Ashley Saludo</span>';
+echo '<span class="date-post"><i class="ti-calendar"></i>Dec. 15, 2021</span>';
+echo '<span class="comment"><a href=""><i class="ti-comment"></i>6</a></span>';
+echo '<p>Long time no sea <3</p>';
+echo '<a class="btn-blog" href="blog-post2.php">More Detail</a>';
+echo '</div>';
+echo '</div>';
+echo '';
+echo '<div class="blog-simple">';
+echo '<a href="#"><img class="img-responsive" src="img/blog/3.jpeg" alt=""></a>';
+echo '<div class="blog-text">';
+echo '<span class="user-post"><i class="ti-user"></i>Justine Solito</span>';
+echo '<span class="date-post"><i class="ti-calendar"></i>Feb. 23, 2022</span>';
+echo '<span class="comment"><a href=""><i class="ti-comment"></i>3</a></span>';
+echo '<p>Ang hot!! ng panahon</p>';
+echo '<a class="btn-blog" href="blog-post3.php">More Detail</a>';
+echo '</div>';
+echo '</div>';
+echo '';
+echo '<!-- Smaller pagination -->';
+echo '<ul class="pagination">';
+echo '<li><a href="#">&laquo;</a></li>';
+echo '<li><a>1</a></li>';
+echo '<li><a>2</a></li>';
+echo '<li><a>3</a></li>';
+echo '<li><a>4</a></li>';
+echo '<li><a>5</a></li>';
+echo '<li><a>&raquo;</a></li>';
+echo '</ul>';
+echo '';
+echo '</div>';
+echo '<!-- left content end -->';
+echo '';
+echo '<!-- right content -->';
+echo '<div class="col-md-4">';
+echo '<aside>';
+echo '';
+echo '<!-- widget -->';
+echo '<div class="widget">';
+echo '<form role="search">';
+echo '<div class="input-group">';
+echo '<input type="text" id="search1" class="form-control" placeholder="search">';
+echo '<div class="input-group-btn">';
+echo '<button type="submit"><span class="icon"><i class="fa fa-search"></i></span></button>';
+echo '</div>';
+echo '</div>';
+echo '</form>';
+echo '</div>';
+echo '<!-- widget end -->';
+echo '';
+echo '<!-- widget -->';
+echo '<div class="widget">';
+echo '<h5>';
+echo 'Recent posts';
+echo '</h5>';
+echo '';
+echo '<div class="devider-widget">';
+echo '</div>';
+echo '';
+echo '<div class="recent">';
+echo '<div>';
+echo '<img alt="#" class="pull-left" src="img/blog/recent/1.jpeg">';
+echo '<h6>';
+echo '<a href="#">Justine Solito</a>';
+echo '</h6>';
+echo '<p>';
+echo 'All i need is a good dose of vitamin sea';
+echo '</p>';
+echo '</div>';
+echo '';
+echo '<div>';
+echo '<a href="#"><img alt="#" class="pull-left" src="img/blog/recent/2.jpeg"></a>';
+echo '<h6>';
+echo '<a href="#">Juan Cruz</a>';
+echo '</h6>';
+echo '';
+echo '<p>';
+echo 'The ocean made me salty';
+echo '</p>';
+echo '</div>';
+echo '';
+echo '<div>';
+echo '<a href="#"><img alt="#" class="pull-left" src="img/blog/recent/3.jpeg"></a>';
+echo '<h6>';
+echo '<a href="#">Justine Solito</a>';
+echo '</h6>';
+echo '';
+echo '<p>';
+echo 'No one likes shady beaches';
+echo '</p>';
+echo '</div>';
+echo '</div>';
+echo '</div>';
+echo '<!-- widget end -->';
+echo '';
+echo '<!-- widget -->';
+echo '<div class="widget">';
+echo '<h5>';
+echo 'Tags';
+echo '</h5>';
+echo '';
+echo '<div class="devider-widget">';
+echo '</div>';
+echo '';
+echo '<div class="tags">';
+echo '<div>';
+echo '<a>Photography</a>';
+echo '</div>';
+echo '';
+echo '<div>';
+echo '<a>Trends</a>';
+echo '</div>';
+echo '';
+echo '<div>';
+echo '<a>Beach</a>';
+echo '</div>';
+echo '';
+echo '<div>';
+echo '<a>Personal</a>';
+echo '</div>';
+echo '';
+echo '<div>';
+echo '<a>Resort</a>';
+echo '</div>';
+echo '';
+echo '<div>';
+echo '<a>Sea</a>';
+echo '</div>';
+echo '';
+echo '<div>';
+echo '<a>Wave</a>';
+echo '</div>';
+echo '</div>';
+echo '</div>';
+echo '<!-- widget end -->';
+echo '';
+echo '</aside>';
+echo '</div>';
+echo '<!-- right content end -->';
+echo '';
+echo '</div>';
+echo '</div>';
+echo '</section>';
+echo '<!-- section end -->';
+echo '';
+echo '';
+echo '<!-- footer -->';
+echo '<footer class="main text-center">';
+echo '<div class="container-fluid m-5-hor">';
+echo '<div class="row">';
+echo '';
+echo '<div class="onStep" data-animation="fadeInUp" data-time="300">';
+echo '<div class="col-md-4 text-left">';
+echo '<span><a href="#">Email: plesiretravel@gmail.com</a></span>';
+echo '<span>Copyright - 2022 Plesire Travel All Right Reserved</span>';
+echo '</div>';
+echo '';
+echo '<div class="col-md-4">';
+echo '<span class="logo">';
+echo '<img alt="logo" src="img/logo-white.png">';
+echo '</span>';
+echo '</div>';
+echo '';
+echo '<div class="col-md-4 text-right">';
+echo '<span>Dili, Gasan, Marinduque</span>';
+echo '<span>Phone: +63927 6073 941</span>';
+echo '</div>';
+echo '</div>';
+echo '';
+echo '';
+echo '</div>';
+echo '</div>';
+echo '</footer>';
+echo '<!-- footer end -->';
+echo '';
+echo '';
+echo '<!-- ScrolltoTop -->';
+echo '<div id="totop" class="init">';
+echo '<span class="ti-angle-up"></span>';
+echo '</div>';
+echo '';
+echo '<!-- modal login -->';
+echo '<div id="fLogin" class="modal fade">';
+echo '<div class="modal-dialog modal-login">';
+echo '<div class="modal-content">';
+echo '<div class="modal-header">';
+echo '<h4 class="modal-title">Member Log In</h4>';
+echo '<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>';
+echo '</div>';
+echo '<div class="modal-body">';
+echo '<form action="#" method="post">';
+echo '<div class="form-group">';
+echo '<label>User Name</label>';
+echo '<input type="text" class="form-control" required="required">';
+echo '</div>';
+echo '<div class="form-group">';
+echo '<label>Password</label>';
+echo '<input type="password" class="form-control" required="required">';
+echo '</div>';
+echo '<div class="form-group">';
+echo '<input type="submit" class="btn btn-primary btn-block btn-lg" value="Log In">';
+echo '</div>';
+echo '</form>';
+echo '';
+echo '</div>';
+echo '<div class="modal-footer">';
+echo '<a href="#">or Sign Up</a>';
+echo '</div>';
+echo '</div>';
+echo '</div>';
+echo '</div>';
+echo '<!-- modal login end -->';
+echo '';
+echo '<!-- modal registration -->';
+echo '<div id="fsignUp" class="modal fade">';
+echo '<div class="modal-dialog modal-login">';
+echo '<div class="modal-content">';
+echo '<div class="modal-header">';
+echo '<h4 class="modal-title">Member Registration</h4>';
+echo '<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>';
+echo '</div>';
+echo '<div class="modal-body">';
+echo '<form>';
+echo '<div class="form-group">';
+echo '<label>First Name</label>';
+echo '<input type="text" name="firstname" class="form-control" required="required">';
+echo '</div>';
+echo '<div class="form-group">';
+echo '<label>Last Name</label>';
+echo '<input type="text" name="lastname" class="form-control" required="required">';
+echo '</div>';
+echo '<div class="form-group">';
+echo '<label>Email Address</label>';
+echo '<input type="email" name="email" class="form-control" required="required">';
+echo '</div>';
+echo '<div class="form-group">';
+echo '<label>Username</label>';
+echo '<input type="text" name="username" class="form-control" required="required">';
+echo '</div>';
+echo '<div class="form-group">';
+echo '<label>Password</label>';
+echo '<input type="password" name="password" class="form-control" required="required">';
+echo '</div>';
+echo '<div class="form-group">';
+echo '<label><input type="checkbox" name="terms"> I agree with the <a href="#">Terms and Conditions</a>.</label>';
+echo '</div>';
+echo '<div class="form-group"><input type="submit" value="Sign up" class="btn btn-primary btn-block btn-lg"></div>';
+echo '<div class="clearfix"></div>';
+echo '</form>';
+echo '';
+echo '</div>';
+echo '<div class="modal-footer">';
+echo '<a href="#">or Log In</a>';
+echo '</div>';
+echo '</div>';
+echo '</div>';
+echo '</div>';
+echo '<!-- modal registration end -->';
+echo '';
+echo '';
+echo '</div>';
+?>
     <!-- content wraper end --> 
     
     <!-- plugin JS -->
