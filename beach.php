@@ -149,9 +149,9 @@
           <div class="row">
             <div class="col-md-12">
               <h1 class="big-heading">
-                Cave Destination
+                Beach Destination
               </h1>
-              <p>A large underground chamber</p>
+              <p>A sandy shore</p>
             </div>
         </div>
        </div>
@@ -218,20 +218,20 @@
                 <div class="col-md-6 col-lg-4">
                 <div class="gal-home">
                   <div class="hovereffect">
-                    <img alt="imageportofolio" class="img-responsive" src="img/cave/bagumbungan.jpeg">
+                    <img alt="imageportofolio" class="img-responsive" src="img/beach/aroma.jpeg">
                   </div>
                   <div class="gal-home-content">
                     <div class="row">
                          <div class="col-md-8"> 
-                          <h4 class="autoheight">Bagumbungan Cave</h4>
+                          <h4 class="autoheight">Aroma Beach</h4>
                           <div class="star-content">
                             <i class="fa fa-star" aria-hidden="true"></i> 
                             <i class="fa fa-star" aria-hidden="true"></i> 
                             <i class="fa fa-star" aria-hidden="true"></i> 
-                            <i class="fa fa-star" aria-hidden="true"></i> 
+                            <i class="fa fa-star-o" aria-hidden="true"></i> 
                             <i class="fa fa-star-o" aria-hidden="true"></i>
                            </div>
-                           <div class="review-cont big-heading">97 Reviews</div>
+                           <div class="review-cont big-heading">156 Reviews</div>
                          </div>
                    </div>
                   </div>
@@ -242,20 +242,20 @@
                 <div class="col-md-6 col-lg-4">
                 <div class="gal-home">
                         <div class="hovereffect">
-                          <img alt="imageportofolio" class="img-responsive" src="img/cave/bathala.jpeg">
+                          <img alt="imageportofolio" class="img-responsive" src="img/beach/gasanpb.jpeg">
                         </div>
                         <div class="gal-home-content">
                           <div class="row">
                                <div class="col-md-8"> 
-                                <h4 class="autoheight">Bathala Cave</h4>
+                                <h4 class="autoheight">Gasan Public Beach</h4>
                                 <div class="star-content">
                                   <i class="fa fa-star" aria-hidden="true"></i> 
                                   <i class="fa fa-star" aria-hidden="true"></i> 
                                   <i class="fa fa-star" aria-hidden="true"></i> 
                                   <i class="fa fa-star" aria-hidden="true"></i> 
-                                  <i class="fa fa-star" aria-hidden="true"></i>
+                                  <i class="fa fa-star-o" aria-hidden="true"></i>
                                  </div>
-                                 <div class="review-cont big-heading">276 Reviews</div>
+                                 <div class="review-cont big-heading">199 Reviews</div>
                                </div>
                          </div>
                         </div>
@@ -266,20 +266,20 @@
                 <div class="col-md-6 col-lg-4">
                   <div class="gal-home">
                         <div class="hovereffect">
-                          <img alt="imageportofolio" class="img-responsive" src="img/cave/duyay.jpeg">
+                          <img alt="imageportofolio" class="img-responsive" src="img/beach/maligaya.jpeg">
                         </div>
                         <div class="gal-home-content">
                           <div class="row">
                                <div class="col-md-8"> 
-                                <h4 class="autoheight">Duyay Cave</h4>
+                                <h4 class="autoheight">Maligaya Beach</h4>
                                 <div class="star-content">
                                   <i class="fa fa-star" aria-hidden="true"></i> 
                                   <i class="fa fa-star" aria-hidden="true"></i> 
                                   <i class="fa fa-star" aria-hidden="true"></i> 
                                   <i class="fa fa-star" aria-hidden="true"></i> 
-                                  <i class="fa fa-star" aria-hidden="true"></i>
+                                  <i class="fa fa-star-o" aria-hidden="true"></i>
                                  </div>
-                                 <div class="review-cont big-heading">342 Reviews</div>
+                                 <div class="review-cont big-heading">154 Reviews</div>
                                </div>
                          </div>
                         </div>
@@ -290,20 +290,20 @@
                 <div class="col-md-6 col-lg-4">
                 <div class="gal-home">
                         <div class="hovereffect">
-                          <img alt="imageportofolio" class="img-responsive" src="img/cave/talamban.jpeg">
+                          <img alt="imageportofolio" class="img-responsive" src="img/beach/poctoy.jpeg">
                         </div>
                         <div class="gal-home-content">
                           <div class="row">
                                <div class="col-md-8"> 
-                                <h4 class="autoheight">Talamban Cave</h4>
+                                <h4 class="autoheight">Poctoy White Beach</h4>
                                 <div class="star-content">
                                   <i class="fa fa-star" aria-hidden="true"></i> 
                                   <i class="fa fa-star" aria-hidden="true"></i> 
                                   <i class="fa fa-star" aria-hidden="true"></i> 
                                   <i class="fa fa-star" aria-hidden="true"></i> 
-                                  <i class="fa fa-star-o" aria-hidden="true"></i>
+                                  <i class="fa fa-star" aria-hidden="true"></i>
                                  </div>
-                                 <div class="review-cont big-heading">165 Reviews</div>
+                                 <div class="review-cont big-heading">698 Reviews</div>
                                </div>
                          </div>
                         </div>
@@ -314,12 +314,12 @@
                 <div class="col-md-6 col-lg-4">
                 <div class="gal-home">
                   <div class="hovereffect">
-                    <img alt="imageportofolio" class="img-responsive" src="img/cave/tarug.jpeg">
+                    <img alt="imageportofolio" class="img-responsive" src="img/beach/treasuresp.jpeg">
                   </div>
                   <div class="gal-home-content">
                     <div class="row">
                          <div class="col-md-8"> 
-                          <h4 class="autoheight">Tarug Cave</h4>
+                          <h4 class="autoheight">Treasure's Place</h4>
                           <div class="star-content">
                             <i class="fa fa-star" aria-hidden="true"></i> 
                             <i class="fa fa-star" aria-hidden="true"></i> 
@@ -327,7 +327,7 @@
                             <i class="fa fa-star" aria-hidden="true"></i> 
                             <i class="fa fa-star" aria-hidden="true"></i>
                            </div>
-                           <div class="review-cont big-heading">387 Reviews</div>
+                           <div class="review-cont big-heading">521 Reviews</div>
                          </div>
                    </div>
                   </div>
@@ -338,12 +338,12 @@
                 <div class="col-md-6 col-lg-4">
                 <div class="gal-home">
                         <div class="hovereffect">
-                          <img alt="imageportofolio" class="img-responsive" src="img/cave/kaamon.jpeg">
+                          <img alt="imageportofolio" class="img-responsive" src="img/beach/ulong.jpeg">
                         </div>
                         <div class="gal-home-content">
                           <div class="row">
                                <div class="col-md-8"> 
-                                <h4 class="autoheight">Ka Amon Cave</h4>
+                                <h4 class="autoheight">Ulong Beach</h4>
                                 <div class="star-content">
                                   <i class="fa fa-star" aria-hidden="true"></i> 
                                   <i class="fa fa-star" aria-hidden="true"></i> 
@@ -351,7 +351,7 @@
                                   <i class="fa fa-star" aria-hidden="true"></i> 
                                   <i class="fa fa-star-o" aria-hidden="true"></i>
                                  </div>
-                                 <div class="review-cont big-heading">176 Reviews</div>
+                                 <div class="review-cont big-heading">372 Reviews</div>
                                </div>
                          </div>
                         </div>
