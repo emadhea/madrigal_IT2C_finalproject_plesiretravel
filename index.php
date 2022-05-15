@@ -103,8 +103,10 @@
           <div class="white menu-init" id="main-menu">
             <nav id="menu-center">
               <ul>
+                <li><a  href="index.php">Home</a></li>
                 <li><a href="#">Gallery <i class="fa fa-angle-down"></i></a> <ul>
                     <li><a href="alltours.php">All Tours</a></li>
+                    <li><a href="ourgallery.php">Our Gallery</a></li>
                   </ul>
                 </li>
                 <li><a  href="#">Destination <i class="fa fa-angle-down"></i></a>
@@ -332,7 +334,6 @@
                     
                      <div class="item">
                       <div class="gal-home">
-                        <a href="projects-detail.html">
                         <div class="hovereffect">
                           <img alt="imageportofolio" class="img-responsive" src="img/index gallery/spoctoy.jpeg">
                         </div>
@@ -357,7 +358,6 @@
 
                       <div class="item">
                       <div class="gal-home">
-                        <a href="projects-detail.html">
                         <div class="hovereffect">
                           <img alt="imageportofolio" class="img-responsive" src="img/index gallery/spalad.jpeg">
                         </div>
@@ -376,13 +376,11 @@
                                </div>
                          </div>
                         </div>
-                        </a>
                       </div>
                       </div>
 
                       <div class="item">
                       <div class="gal-home">
-                        <a href="projects-detail.html">
                         <div class="hovereffect">
                           <img alt="imageportofolio" class="img-responsive" src="img/index gallery/smalindig.jpeg">
                         </div>
@@ -407,7 +405,6 @@
 
                       <div class="item">
                       <div class="gal-home">
-                        <a href="projects-detail.html">
                         <div class="hovereffect">
                           <img alt="imageportofolio" class="img-responsive" src="img/index gallery/sboac.jpeg">
                         </div>
@@ -426,13 +423,11 @@
                                </div>
                          </div>
                         </div>
-                        </a>
                       </div>
                       </div>
 
                       <div class="item">
                       <div class="gal-home">
-                        <a href="projects-detail.html">
                         <div class="hovereffect">
                           <img alt="imageportofolio" class="img-responsive" src="img/index gallery/smaniwaya.jpeg">
                         </div>
@@ -451,13 +446,11 @@
                                </div>
                          </div>
                         </div>
-                        </a>
                       </div>
                       </div>
 
                       <div class="item">
                       <div class="gal-home">
-                        <a href="projects-detail.html">
                         <div class="hovereffect">
                           <img alt="imageportofolio" class="img-responsive" src="img/index gallery/sbagumbungan.jpeg">
                         </div>
@@ -476,7 +469,6 @@
                                </div>
                          </div>
                         </div>
-                        </a>
                       </div>
                       </div>  
                       

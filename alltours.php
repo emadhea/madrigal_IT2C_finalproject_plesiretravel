@@ -102,8 +102,10 @@
           <div class="white menu-init" id="main-menu">
             <nav id="menu-center">
               <ul>
+                <li><a  href="index.php">Home</a></li>
                 <li><a href="#">Gallery <i class="fa fa-angle-down"></i></a> <ul>
                     <li><a href="alltours.php">All Tours</a></li>
+                    <li><a href="ourgallery.php">Our Gallery</a></li>
                   </ul>
                 </li>
                 <li><a  href="#">Destination <i class="fa fa-angle-down"></i></a>
@@ -171,18 +173,6 @@
                 <ul id="filter-porto">
                   <li class="filt-projects-w selected" data-project=".alltours">All Tours
                   </li>
-                  
-                  <li class="filt-projects-w" data-project=".boac">Boac
-                  </li>
-
-                  <li class="filt-projects-w" data-project=".aus">Buenavista
-                  </li>
-
-                  <li class="filt-projects-w" data-project=".eur">Gasan
-                  </li>
-
-                  <li class="filt-projects-w" data-project=".afr">Mogpog
-                  </li>
 
                 </ul>
                 
@@ -202,7 +192,7 @@
                      </div>
                   </div>
                     
-                    <div class="w-gallery .alltours">
+                    <div class="w-gallery .gasan">
                     <div class="projects-grid">
                     <div class="hovereffect-color">
                     <img src="img/all-tours/2.jpeg" alt="" class="w-gallery-image">
@@ -214,7 +204,7 @@
                      </div>
                   </div>
                     
-                    <div class="w-gallery .alltours">
+                    <div class="w-gallery .stcruz">
                     <div class="projects-grid">
                     <div class="hovereffect-color">
                     <img src="img/all-tours/3.jpeg" alt="" class="w-gallery-image">
@@ -226,7 +216,7 @@
                      </div>
                   </div>
                     
-                    <div class="w-gallery .alltours">
+                    <div class="w-gallery .gasan">
                     <div class="projects-grid onStep" data-animation="fadeInUp" data-time="0">
                     <div class="hovereffect-color">
                     <img src="img/all-tours/4.jpeg" alt="" class="w-gallery-image">
@@ -238,7 +228,7 @@
                      </div>
                   </div>
                     
-                    <div class="w-gallery .alltours">
+                    <div class="w-gallery .buena">
                     <div class="projects-grid onStep" data-animation="fadeInUp" data-time="0">
                     <div class="hovereffect-color">
                     <img src="img/all-tours/5.jpeg" alt="" class="w-gallery-image">
@@ -250,7 +240,7 @@
                      </div>
                   </div>
                     
-                    <div class="w-gallery .alltours">
+                    <div class="w-gallery .stcruz">
                     <div class="projects-grid onStep" data-animation="fadeInUp" data-time="0">
                     <div class="hovereffect-color">
                     <img src="img/all-tours/6.jpeg" alt="" class="w-gallery-image">
@@ -262,7 +252,7 @@
                      </div>
                     </div>
                     
-                    <div class="w-gallery .alltours">
+                    <div class="w-gallery .mogpog">
                      <div class="projects-grid onStep" data-animation="fadeInUp" data-time="0">
                       <div class="hovereffect-color">
                       <img src="img/all-tours/7.jpeg" alt="" class="w-gallery-image">
@@ -274,7 +264,7 @@
                      </div>
                   </div>
                     
-                    <div class="w-gallery .alltours">
+                    <div class="w-gallery .gasan">
                     <div class="projects-grid onStep" data-animation="fadeInUp" data-time="0">
                     <div class="hovereffect-color">
                     <img src="img/all-tours/8.jpeg" alt="" class="w-gallery-image">
@@ -286,7 +276,7 @@
                      </div>
                   </div>
                     
-                    <div class="w-gallery asia">
+                    <div class="w-gallery .stcruz">
                     <div class="projects-grid onStep" data-animation="fadeInUp" data-time="0">
                     <div class="hovereffect-color">
                     <img src="img/all-tours/9.jpeg" alt="" class="w-gallery-image">
@@ -309,25 +299,6 @@
         </section>
       <!-- section projects end -->
       
-      
-      <section class="no-top">
-        <div class="container-fluid m-5-hor">
-          <div class="row goldpage">
-          
-             <div class="col-lg-9 col-md-12 text-center">
-                  <h3>Looking for a quality and unforgettable Travel Destination for your next vacation?</h3>
-              </div>
-
-              <div class="col-lg-2 col-md-12">
-                <div class="btn-content" >
-                             <span class="shine"></span>
-                             <a href="#">Let us know</a>
-                </div>
-              </div>
-
-          </div>
-         </div>
-      </section>
 
        
       <!-- footer -->
@@ -337,8 +308,8 @@
           
           <div class="onStep" data-animation="fadeInUp" data-time="300">
           <div class="col-md-4 text-left">
-          <span><a href="#">Email: companyname@gmail.com</a></span>
-          <span>Copyright - 2018 Plesire Travel All Right Reserved</span>
+          <span><a href="#">Email: plesiretravel@gmail.com</a></span>
+          <span>Copyright - 2022 Plesire Travel All Right Reserved</span>
           </div>
           
           <div class="col-md-4">
@@ -348,8 +319,8 @@
             </div>
             
             <div class="col-md-4 text-right">
-              <span>129 Park street, New York City, NY 10903</span>
-              <span>Phone: (+6221) 000 888 999</span>
+              <span>Dili, Gasan, Marinduque</span>
+              <span>Phone: +63927 6073 941</span>
             </div>
             </div>
 
