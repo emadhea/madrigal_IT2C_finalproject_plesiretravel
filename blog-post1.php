@@ -94,7 +94,7 @@
            <span class="icon icon-bar"></span></button> 
           
           <!-- logo --> 
-          <a class="navbar-brand white" href="index.php">
+          <a class="navbar-brand white" href="index.html">
           <img class="white" alt="logo" src="img/logo.png">
           <img class="black" alt="logo" src="img/logo-white.png">
           </a> 
@@ -149,9 +149,9 @@
           <div class="row">
             <div class="col-md-12">
               <h1 class="big-heading">
-                Blog
+                More Detail
               </h1>
-              <p>Discover different post of others</p>
+              <p>See comments and replies</p>
             </div>
         </div>
        </div>
@@ -164,64 +164,118 @@
           <div class="row">
           
             <!-- left content -->
-            <div class="col-md-8">
-              
-                          <div class="blog-simple">
+              <div class="col-md-8">
+
+                     <!-- article -->
+                     <article>
+                     <div class="blog-simple">
 							<a href="#"><img class="img-responsive" src="img/blog/1.jpeg" alt=""></a>
 							<div class="blog-text">
-                        <span class="user-post"><i class="ti-user"></i>Ema Madrigal</span>
+									<span class="user-post"><i class="ti-user"></i>Ema Madrigal</span>
 									<span class="date-post"><i class="ti-calendar"></i>April 28, 2022</span>
-									<span class="comment"><a href=""><i class="ti-comment"></i>5</a></span>
-									<p>Beachin'... ready na ko mangitim >.<</p>
-									<a class="btn-blog" href="blog-post1.php">More Detail</a>
+									<span class="comment"><i class="ti-comment"></i> 5 </span>
+				  <p>Beachin'... ready na ko mangitim >.<</p>
+                  
 							</div> 
 						</div>
+                     </article>
+                     <!-- article end -->
 
-						<div class="blog-simple">
-							<a href="#"><img class="img-responsive" src="img/blog/2.jpeg" alt=""></a>
-							<div class="blog-text">
-									<span class="user-post"><i class="ti-user"></i>Ashley Saludo</span>
-									<span class="date-post"><i class="ti-calendar"></i>Dec. 15, 2021</span>
-									<span class="comment"><a href=""><i class="ti-comment"></i>6</a></span>
-									<p>Long time no sea <3</p>
-									<a class="btn-blog" href="blog-post2.php">More Detail</a>
-							</div> 
-						</div>
+                     <!-- comment blog -->
+                     <div id="blog-comment">
+                        <h5><span>Comments (5)</span></h5>
 
-						<div class="blog-simple">
-							<a href="#"><img class="img-responsive" src="img/blog/3.jpeg" alt=""></a>
-							<div class="blog-text">
-									<span class="user-post"><i class="ti-user"></i>Justine Solito</span>
-									<span class="date-post"><i class="ti-calendar"></i>Feb. 23, 2022</span>
-									<span class="comment"><a href=""><i class="ti-comment"></i>3</a></span>
-									<p>Ang hot!! ng panahon</p>
-									<a class="btn-blog" href="blog-post3.php">More Detail</a>
-							</div> 
-						</div>
-                        
-    <!-- Smaller pagination -->
-    <ul class="pagination">
-        <li><a href="#">&laquo;</a></li>
-        <li><a>1</a></li>
-        <li><a>2</a></li>
-        <li><a>3</a></li>
-        <li><a>4</a></li>
-        <li><a>5</a></li>
-        <li><a>&raquo;</a></li>
-    </ul>            
-               
-            </div>
-            <!-- left content end -->
-            
+                        <ul>
+                           <li>
+                              <div class="avatar"><img alt="img" src="img/blog/blogpost/avatar1.jpeg">
+                              </div>
+                              <div class="comment-info">
+                                 <span class="c-name">Justine Solito</span>
+                                 <span class="c-date"><i class="ti-calendar"></i>28 April 2022</span>
+                                 <span class="c-reply"><a class="link"  href="#">Reply</a></span>
+                              </div>
+                              <div class="comment">Sayang ang kutis dzai</div>
+                              <!-- sub comment -->
+                              <ul>
+                                 <li>
+                                    <div class="avatar"><img alt="img" src="img/blog/blogpost/avatar3.jpeg">
+                                    </div>
+                                    <div class="comment-info">
+                                       <span class="c-name">Ema Madrigal</span>
+                                       <span class="c-date">28 April 2022</span>
+                                       <span class="c-reply"><a class="link"  href="#">Reply</a></span>
+                                    </div>
+                                    <div class="comment">Kaya nga, pero atleast nakapag beach haha</div>
+                                 </li>
+                              </ul>
+                              <!-- sub comment end -->
+                           </li>
+                        </ul>
+
+
+                        <ul>
+                           <li>
+                              <div class="avatar"><img alt="img" src="img/blog/blogpost/avatar2.jpeg">
+                              </div>
+                              <div class="comment-info">
+                                 <span class="c-name">Corey Taylor</span>
+                                 <span class="c-date">29 April 2022</span>
+                                 <span class="c-reply"><a class="link"  href="#">Reply</a></span>
+                              </div>
+                              <div class="comment">Beautiful as always</div>
+                           </li>
+                        </ul>
+
+                        <ul>
+                           <li>
+                              <div class="avatar"><img alt="img" src="img/blog/blogpost/avatar4.jpeg">
+                              </div>
+                              <div class="comment-info">
+                                 <span class="c-name">Ashley Saludo</span>
+                                 <span class="c-date">1 May 2022</span>
+                                 <span class="c-reply"><a class="link"  href="#">Reply</a></span>
+                              </div>
+                              <div class="comment">Sana all ready mangitim</div>
+                           </li>
+                        </ul>
+
+                        <ul>
+                           <li>
+                              <div class="avatar"><img alt="img" src="img/blog/blogpost/avatar6.jpeg">
+                              </div>
+                              <div class="comment-info">
+                                 <span class="c-name">Reynan Yap</span>
+                                 <span class="c-date">2 May 2022</span>
+                                 <span class="c-reply"><a class="link"  href="#">Reply</a></span>
+                              </div>
+                              <div class="comment">Wow</div>
+                           </li>
+                        </ul>
+
+                        <div id="comment-form-wrapper">
+                           <h6>Leave a Comment</h6>
+                           <form class="no-smoothState" id="commentform" name="form1" method="post" action="#">
+                              <textarea cols="10" rows="10" name="message" id="messagecom" placeholder="Comment"></textarea>
+                              <input type="text" name="name" id="namecom" placeholder="name" />
+                              <input type="text" name="email" id="emailcom" placeholder="email" />
+                              <button id="sendcomment" class="btn" type="submit">Post Comment</button>
+                           </form>
+                        </div>
+                     </div>
+                     <!-- comment blog end -->
+                     
+                  </div>
+                  <!-- left content end -->
+
             <!-- right content -->
             <div class="col-md-4">
               <aside>
               
-                <!-- widget -->
+              <!-- widget -->
               <div class="widget">
-              <form role="search">
+              <form class="no-smoothState" role="search">
                 <div class="input-group">
-						<input type="text" id="search1" class="form-control" placeholder="search">
+						<input type="text" id="search" class="form-control" placeholder="search">
 						<div class="input-group-btn">
 							<button type="submit"><span class="icon"><i class="fa fa-search"></i></span></button>
 						</div>
@@ -229,7 +283,7 @@
                 </form>
                 </div>
                 <!-- widget end -->
-                
+              
                 <!-- widget -->
                 <div class="widget">
                   <h5>
@@ -323,9 +377,8 @@
           </div>
         </div>
       </section>
-      <!-- section end -->
-      
-       
+      <!-- section end -->         
+
       <!-- footer -->
       <footer class="main text-center">
         <div class="container-fluid m-5-hor">
@@ -373,11 +426,11 @@
                       <form action="#" method="post">
                         <div class="form-group">
                           <label>User Name</label>
-                          <input type="text" class="form-control" required="required">
+                          <input type="text" class="form-control" required>
                         </div>
                         <div class="form-group">
                           <label>Password</label>
-                          <input type="password" class="form-control" required="required">         
+                          <input type="password" class="form-control" required>         
                         </div>
                         <div class="form-group">
                           <input type="submit" class="btn btn-primary btn-block btn-lg" value="Log In">
@@ -405,23 +458,23 @@
                       <form>
                         <div class="form-group">
                         <label>First Name</label>
-                        <input type="text" name="firstname" class="form-control" required="required">
+                        <input type="text" name="firstname" class="form-control" required>
                         </div>
                         <div class="form-group">
                         <label>Last Name</label>
-                        <input type="text" name="lastname" class="form-control" required="required">
+                        <input type="text" name="lastname" class="form-control" required>
                         </div>
                         <div class="form-group">
                         <label>Email Address</label>
-                        <input type="email" name="email" class="form-control" required="required">
+                        <input type="email" name="email" class="form-control" required>
                         </div>
                         <div class="form-group">
                         <label>Username</label>
-                        <input type="text" name="username" class="form-control" required="required">
+                        <input type="text" name="username" class="form-control" required>
                         </div>
                         <div class="form-group">
                         <label>Password</label>
-                        <input type="password" name="password" class="form-control" required="required">
+                        <input type="password" name="password" class="form-control" required>
                         </div>
                         <div class="form-group">
                         <label><input type="checkbox" name="terms"> I agree with the <a href="#">Terms and Conditions</a>.</label>
@@ -455,4 +508,3 @@
     <script src="js/on3step.js"></script>
     <script src="js/plugin-set.js"></script>
   </body>
-</html>
